@@ -7,15 +7,15 @@
       .col-6.col-md-4.col-lg-3.mb-4.mb-md-0(data-aos="fade-right")
         .tarjeta.h-100.d-flex.align-items-center.p-4
           figure
-            img(src="@/assets/template/falso-verdadero.svg", alt="Imagen decorativa")
+            img(src="@/assets/template/arrastrar.svg", alt="Imagen decorativa")
       .col-12.col-md-8.col-lg-9(data-aos="fade-left")
         .titulo-segundo
-          h2 Nombre_de_la_actividad
-        p.mb-4 Objetivo_actividad
+          h2 Exploró el negocio
+        p.mb-4 Aplicar los conocimientos sobre modelo de negocios y sistemas de gestión del riesgo en una empresa según el tipo y los riesgos del negocio.
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            
             .col-sm.mb-3.mb-sm-0
-              p.fw-bold.mb-0 Tipo_de_actividad
+              p.fw-bold.mb-0 Opción múltiple única respuesta
             .col-auto
               a.boton.boton--b(:href="obtenerLink('/actividades/actividad.html')" target="_blank")
                 span Realizar
