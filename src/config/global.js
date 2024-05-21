@@ -198,7 +198,7 @@ export default {
       titulo: 'ECOSISTEMA DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Claudia Patricia Aristizábal Gutiérrez',
+          nombre: 'Milady Tatiana Villamil Castellanos',
           cargo: 'Responsable del equipo',
           centro: 'Dirección General',
         },
@@ -214,29 +214,34 @@ export default {
       autores: [
         {
           nombre: 'Fabiola Sierra Sarmiento',
-          cargo: 'Experto temático',
+          cargo: 'Experta Temática',
           centro: 'Regional Norte de Santander - CIES',
         },
         {
-          nombre: 'Ana Vela Rodríguez Velásquez ',
-          cargo: 'Diseñadora instruccional',
-          centro: 'Regional Distrito Capital - Centro de Gestión Industrial',
+          nombre: 'Ana Vela Rodríguez Velásquez',
+          cargo: 'Diseño Instruccional',
+          centro: 'Centro de Gestión Industrial - Regional Distrito Capital',
         },
         {
           nombre: 'Carolina Coca Salazar',
-          cargo: 'Asesor Metodológica ',
+          cargo: 'Asesoría Metodológica',
           centro: 'Regional Distrito Capital- Centro de Diseño y Metrología',
         },
         {
           nombre: 'Rafael Lizcano',
           cargo: 'Responsable Equipo Desarrollo Curricular',
           centro:
-            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
         {
           nombre: 'Sandra Patricia Hoyos Sepúlveda',
-          cargo: 'Corrección de estilo',
-          centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
+          cargo: 'Corrección de Estilo',
+          centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
+        },
+        {
+          nombre: 'Andrés Felipe Velandia Espitia',
+          cargo: 'Evaluación Instruccional',
+          centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
       ],
     },
@@ -244,18 +249,28 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Oscar Ivan Uribe Ortiz',
-          cargo: 'Diseñador web',
+          nombre: 'Ernesto Navarro Jaimes',
+          cargo: 'Producción audiovisual',
+          centro: 'Centro de Comercio y Servicios - Regional Tolima',
+        },
+        {
+          nombre: 'Gilberto Junior Rodríguez Rodríguez',
+          cargo: 'Producción audiovisual',
+          centro: 'Centro de Comercio y Servicios - Regional Tolima',
+        },
+        {
+          nombre: 'Oscar Iván Uribe Ortiz',
+          cargo: 'Diseño web',
+          centro: 'Centro de Comercio y Servicios - Regional Tolima',
+        },
+        {
+          nombre: 'Veimar Celis Meléndez  ',
+          cargo: 'Desarrollo Fullstack',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
         {
           nombre: 'Diego Fernando Velasco Güiza',
-          cargo: 'Desarrollador Fullstack',
-          centro: 'Centro de Comercio y Servicios - Regional Tolima',
-        },
-        {
-          nombre: 'Nombre_responsable',
-          cargo: 'Animación y producción audiovisual',
+          cargo: 'Desarrollo Fullstack',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
       ],
@@ -264,17 +279,12 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Nombre_responsable',
+          nombre: 'Norma Constanza Morales Cruz',
           cargo: 'Evaluación de contenidos inclusivos y accesibles',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
         {
-          nombre: 'Nombre_responsable',
-          cargo: 'Validación de recursos educativos digitales',
-          centro: 'Centro de Comercio y Servicios - Regional Tolima',
-        },
-        {
-          nombre: 'Nombre_responsable',
+          nombre: 'Javier Mauricio Oviedo',
           cargo: 'Validación de recursos educativos digitales',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },

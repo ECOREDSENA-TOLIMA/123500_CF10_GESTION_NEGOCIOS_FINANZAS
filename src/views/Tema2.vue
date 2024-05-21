@@ -17,7 +17,7 @@
               img.mx-auto(src='@/assets/curso/tema1/img01.svg' alt="Imagen decorativa" style="max-width: 90px;")
             .col-lg-10(data-aos="fade-left")
               .h4 Importante…
-              p.mb-0 Los riesgos positivos son oportunidade s que podrían aumentar el valor comercial o, por el contrario, dañar una organización  si no se aprovechan.
+              p.mb-0 Los riesgos positivos son oportunidades que podrían aumentar el valor comercial o, por el contrario, dañar una organización  si no se aprovechan.
       .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
         img(src='@/assets/curso/tema2/img01.svg' alt="Imagen decorativa")
     
@@ -69,9 +69,9 @@
         p.mb-0 Teniendo en cuenta lo anterior, la organización debe entonces conocer la gestión de riesgos desde diversos sectores con el fin de identificar desde cada ángulo la posible existencia del mismo, veamos:
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-9.order-lg-1.order-2(data-aos="fade-right")
+      .col-lg-12.order-lg-1.order-2(data-aos="fade-right")
         .row.justify-content-center.align-items-center.mb-5
-          .col-lg-9.order-lg-1.order-2(data-aos="fade-right")
+          .col-lg-10.order-lg-1.order-2(data-aos="fade-right")
             TabsA.color-acento-botones.mb-4
               .tarjeta.BG07.p-4(titulo="Riesgos financieros")
                 p Los riesgos a los que se enfrentan las empresas de servicios financieros tienden a estar arraigados en los números y, por lo tanto, pueden cuantificarse y analizarse de forma eficaz utilizando tecnología conocida y métodos maduros. Los escenarios de riesgo en las compañías financieras se pueden modelar con cierta precisión.
@@ -79,17 +79,19 @@
                 p El riesgo tiende a ser más cualitativo y, por lo tanto, más difícil de administrar, lo que aumenta la necesidad de un enfoque deliberado, completo y consistente para la gestión de riesgos. Los programas de gestión de riesgos empresariales tienen como objetivo ayudar a estas empresas a ser lo más inteligentes posible en la gestión de riesgos.
               .tarjeta.BG07.p-4(titulo="Riesgos empresariales")
                 p Tienen como objetivo mitigar los riesgos que podrían dañar a las empresas, por ello para prevenir cualquier amenaza física, por lo que se adquiere la compra de un seguro para protegerse contra una variedad de riesgos, desde pérdidas por incendio y robo hasta responsabilidad cibernética. 
-            .tarjeta.color-secundario.p-4.text-white
-              .row.justify-content-center.align-items-center
-                .col-lg-2.col-4.mb-lg-0.mb-4(data-aos="fade-right")
-                  img.mx-auto(src='@/assets/curso/tema1/img01.svg' alt="Imagen decorativa" style="max-width: 90px;")
-                .col-lg-10(data-aos="fade-left")
-                  .h4 Importante…
-                  p.mb-0 Partiendo de la información recolectada anteriormente la organización entonces debe diseñar un programas de gestión de riesgos, el cual le ayuda a considerar la diversidad de problemas que enfrenta, también examina la relación entre los riesgos y el impacto en caída que podrían tener en los objetivos estratégicos de una organización.
+      .col-lg-9.order-lg-1.order-2(data-aos="fade-right")
+        .row.justify-content-center.align-items-center.mb-5
+          .tarjeta.color-secundario.p-4.text-white
+            .row.justify-content-center.align-items-center
+              .col-lg-2.col-4.mb-lg-0.mb-4(data-aos="fade-right")
+                img.mx-auto(src='@/assets/curso/tema1/img01.svg' alt="Imagen decorativa" style="max-width: 90px;")
+              .col-lg-10(data-aos="fade-left")
+                .h4 Importante…
+                p.mb-0 Partiendo de la información recolectada anteriormente la organización entonces debe diseñar un programa de gestión de riesgos, el cual le ayuda a considerar la diversidad de problemas que enfrenta, también examina la relación entre los riesgos y el impacto en caída que podrían tener en los objetivos estratégicos de una organización.
       .col-lg-3.col-6.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
         img(src='@/assets/curso/tema2/img06.png' alt="Imagen decorativa")
 
-    p.mb-5(data-aos="fade-right") Por lo tanto, un programa de gestión de riesgos debe estar entrelazado con la estrategia organizacional en donde se determinen los riesgos en los que la organización requiere de controles y acciones adicionales que sean aceptables o tolerables. Es importante que se acepten algunos de ellos sin que sea necesaria ninguna otra acción, otros son mitigados, compartidos o evitados por completo, pero cómo hace esto… veamos.
+    p.mb-5(data-aos="fade-right") Por lo tanto, un programa de gestión de riesgos debe estar entrelazado con la estrategia organizacional en donde se determinen los riesgos en los que la organización requiere de controles y acciones adicionales que sean aceptables o tolerables. Es importante que se acepten algunos de ellos sin que sea necesaria ninguna otra acción, otros son mitigados, compartidos o evitados por completo.
 
     .mb-4.d-flex(data-aos="fade-right")
       .d-flex.align-items-center.pe-4.BGR01
@@ -111,16 +113,16 @@
                 th(style="background-color: #00BCD4; font-size: 18px;") Fuentes de amenazas
             tbody
               tr(data-aos="fade-right")
-                td.text-center Riesgos de Personas
+                td.text-center Riesgos de personas
                 td.text-center Terremotos
               tr(data-aos="fade-right")
-                td.text-center(style="background-color: #F6F6F6;") Riesgos de Instalaciones
+                td.text-center(style="background-color: #F6F6F6;") Riesgos de instalaciones
                 td.text-center(style="background-color: #F6F6F6;") Recesiones económicas
               tr(data-aos="fade-right")
-                td.text-center Riesgos de Procesos
+                td.text-center Riesgos de procesos
                 td.text-center Inundaciones
               tr(data-aos="fade-right")
-                td.text-center(style="background-color: #F6F6F6;") Riesgos Tecnológicos
+                td.text-center(style="background-color: #F6F6F6;") Riesgos tecnológicos
                 td.text-center(style="background-color: #F6F6F6;") Ataques cibernéticos
 
     .BG05.p-4.mb-5
@@ -175,7 +177,7 @@
           img(src='@/assets/curso/tema2/img08.png' alt="Imagen decorativa")
         .col-lg-10.order-3.mt-4
           .BG01.p-4
-            .h4 Utilícelo cuándo…
+            .h4 ¿Cuándo utilizarlo?
             p.mb-0 Cuando haya un cambio en el conocimiento de un riesgo y cuando se ha identificado un nuevo riesgo. 
       .row.justify-content-center.align-items-center(titulo="Análisis Cuantitativo")
         .col-lg-8.order-lg-1.order-2
@@ -185,7 +187,7 @@
           img(src='@/assets/curso/tema2/img09.png' alt="Imagen decorativa")
         .col-lg-10.order-3.mt-4
           .BG01.p-4
-            .h4 Úselo cuando…
+            .h4 ¿Cuándo utilizarlo?
             p.mb-0 Cuando haya una gran cantidad de datos sobre el riesgo y su impacto, ya que realizar un análisis de riesgo cuantitativo puede ser difícil y llevar mucho tiempo, se recomienda dependiendo de las estimaciones precisas del riesgo.
 
     separador
@@ -233,9 +235,9 @@
               img.mx-auto(src='@/assets/curso/tema1/img01.svg' alt="Imagen decorativa" style="max-width: 90px;")
             .col-lg-10(data-aos="fade-left")
               .h4 Importante… 
-              p Los indicadores deben ser:
+              p Aspectos de los indicadores:
               p.mb-0 Cuantificables: son números o porcentajes.
-              p.mb-0 Específico: medir lo correcto asociado con las decisiones.
+              p.mb-0 Específicos: medir lo correcto asociado con las decisiones.
               p.mb-0 Validación: con un alto nivel de confianza. 
               p.mb-0 Medibles: precisos y exactos.
         p.mb-0 Los indicadores son una forma de cuantificar y monitorear los mayores riesgos a los que está expuesta una organización o actividad. Al medir los riesgos y su impacto potencial en el desempeño del negocio, las organizaciones pueden crear sistemas de alerta temprana que les permitan monitorear, administrar y mitigar los riesgos clave.
@@ -276,7 +278,7 @@
                 p.mb-0 Entrada: mide los recursos utilizados.
                 p.mb-0 Salida: mide el resultado de un proceso o actividad.
                 p.mb-0 Proceso: mide la eficiencia de una actividad en particular. 
-          p.mb-5(data-aos="fade-right") Es importante para las empresas que se preocupan por garantizar que los riesgos no sucedan o si suceden no afecten los objetivos y se pueda disminuir el impacto con la métrica de los indicadores claves de rendimiento. Identificar y medir la frecuencia y la gravedad del riesgo puede ayudar a la empresa a lograr y mantener el equilibrio, ya que cuenta con las herramientas para crear un plan eficiente para administrar el riesgo, por lo que le invito a revisar la siguiente tabla.
+          p.mb-5(data-aos="fade-right") Es importante para las empresas que se preocupen por garantizar que los riesgos no sucedan o si suceden no afecten los objetivos y se pueda disminuir el impacto con la métrica de los indicadores claves de rendimiento. Identificar y medir la frecuencia y la gravedad del riesgo puede ayudar a la empresa a lograr y mantener el equilibrio, ya que cuenta con las herramientas para crear un plan eficiente para administrar el riesgo, por lo que le invito a revisar la siguiente tabla.
 
           .titulo-sexto.color-secundario(data-aos="fade-right")
             h5 Tabla 5.
@@ -337,7 +339,7 @@
       template(v-slot:imagen)
         figure
           img(src='@/assets/curso/tema2/img18.svg', alt='Imagen decorativa')
-          figcaption Leyenda de la imagen
+          
 
       .tarjeta.BG07.p-3(x="13%" y="62%" numero="1")
         p.mb-0 Este paso marca la pauta para las decisiones de riesgo en todos los niveles. La audiencia incluye a cualquiera que tenga interés en cómo la organización aprovecha los riesgos positivos y minimiza el riesgo negativo.
