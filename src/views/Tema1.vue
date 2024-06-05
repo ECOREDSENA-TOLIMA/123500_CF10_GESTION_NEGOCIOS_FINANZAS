@@ -111,7 +111,7 @@
 
     figure.mb-5(data-aos="zoom-in")
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/5afzXamdbzM?si=w00Fx5C1W0wb4Kn2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     .BGM04.px-md-5.px-4.mb-5
 
@@ -129,8 +129,13 @@
           p.mb-5(data-aos="fade-right") Es por ello que en la mayoría de las empresas el Lienzo Canvas o modelo Canvas  es el esquema que se utiliza con frecuencia para gestionar estratégicamente la comprensión y las conexiones entre lo que se desea y cómo convertirlo en negocio, además ofrece información efectiva de las probabilidades de lo que puede ser el negocio.
 
           .tarjeta.BG05.p-4
-            figure(data-aos="zoom-in")
-              img(src='@/assets/curso/tema1/img04.svg' alt="Imagen decorativa")
+            .titulo-sexto.color-acento-contenido.mb-5(data-aos="fade-right")
+              h5 Figura 1.
+              span <i>Modelo Canvas</i>
+            figure.desktop(data-aos="zoom-in")
+              img(src='@/assets/curso/tema1/img04.svg' alt="Imagen que relaciona los aspectos que tienen que ver con el modelo Canvas, los cuales son: Socios clave. Actividades clave. Propuestas de valor. Relación con los clientes. Segmentos de clientes. Recursos clave. Canales. Estructura de costes. Líneas de ingresos.")
+            figure.movil(data-aos="zoom-in")
+              img(src='@/assets/curso/tema1/img04_.svg' alt="Imagen que relaciona los aspectos que tienen que ver con el modelo Canvas, los cuales son: Socios clave. Actividades clave. Propuestas de valor. Relación con los clientes. Segmentos de clientes. Recursos clave. Canales. Estructura de costes. Líneas de ingresos.")
               
     .mb-4.d-flex(data-aos="fade-right")
       .d-flex.align-items-center.pe-4.BGR01
@@ -230,31 +235,31 @@
             .tarjeta--boton.color-primario.h-100.p-4
               .row.justify-content-center.mb-4
                 .col-9
-                  img(src='@/assets/curso/tema1/img09.svg' alt="Imagen decorativa")
+                  img(src='@/assets/curso/tema1/img09.png' alt="Imagen decorativa")
               h4.text-white.text-center.mb-0 La edad 
           .col-lg.col-sm-4.col-6.mb-lg-0.mb-4(data-aos="flip-up")
             .tarjeta--boton.color-primario.h-100.p-4
               .row.justify-content-center.mb-4
                 .col-9
-                  img(src='@/assets/curso/tema1/img10.svg' alt="Imagen decorativa")
+                  img(src='@/assets/curso/tema1/img10.png' alt="Imagen decorativa")
               h4.text-white.text-center.mb-0 El sexo 
           .col-lg.col-sm-4.col-6.mb-lg-0.mb-4(data-aos="flip-up")
             .tarjeta--boton.color-primario.h-100.p-4
               .row.justify-content-center.mb-4
                 .col-9
-                  img(src='@/assets/curso/tema1/img11.svg' alt="Imagen decorativa")
+                  img(src='@/assets/curso/tema1/img11.png' alt="Imagen decorativa")
               h4.text-white.text-center.mb-0 El estado civil
           .col-lg.col-sm-4.col-6.mb-lg-0.mb-4(data-aos="flip-up")
             .tarjeta--boton.color-primario.h-100.p-4
               .row.justify-content-center.mb-4
                 .col-9
-                  img(src='@/assets/curso/tema1/img12.svg' alt="Imagen decorativa")
+                  img(src='@/assets/curso/tema1/img12.png' alt="Imagen decorativa")
               h4.text-white.text-center.mb-0 El tamaño de la familia
           .col-lg.col-sm-4.col-6.mb-lg-0.mb-4(data-aos="flip-up")
             .tarjeta--boton.color-primario.h-100.p-4
               .row.justify-content-center.mb-4
                 .col-9
-                  img(src='@/assets/curso/tema1/img13.svg' alt="Imagen decorativa")
+                  img(src='@/assets/curso/tema1/img13.png' alt="Imagen decorativa")
               h4.text-white.text-center.mb-0 La ocupación
 
         .row.justify-content-center.mb-4
@@ -262,31 +267,31 @@
             .tarjeta--boton.color-primario.h-100.p-4
               .row.justify-content-center.mb-4
                 .col-9
-                  img(src='@/assets/curso/tema1/img14.svg' alt="Imagen decorativa")
+                  img(src='@/assets/curso/tema1/img14.png' alt="Imagen decorativa")
               h4.text-white.text-center.mb-0 El nivel educativo
           .col-lg.col-sm-4.col-6.mb-lg-0.mb-4(data-aos="flip-up")
             .tarjeta--boton.color-primario.h-100.p-4
               .row.justify-content-center.mb-4
                 .col-9
-                  img(src='@/assets/curso/tema1/img15.svg' alt="Imagen decorativa")
+                  img(src='@/assets/curso/tema1/img15.png' alt="Imagen decorativa")
               h4.text-white.text-center.mb-0 Los ingresos
           .col-lg.col-sm-4.col-6.mb-lg-0.mb-4(data-aos="flip-up")
             .tarjeta--boton.color-primario.h-100.p-4
               .row.justify-content-center.mb-4
                 .col-9
-                  img(src='@/assets/curso/tema1/img16.svg' alt="Imagen decorativa")
+                  img(src='@/assets/curso/tema1/img16.png' alt="Imagen decorativa")
               h4.text-white.text-center.mb-0 La raza 
           .col-lg.col-sm-4.col-6.mb-lg-0.mb-4(data-aos="flip-up")
             .tarjeta--boton.color-primario.h-100.p-4
               .row.justify-content-center.mb-4
                 .col-9
-                  img(src='@/assets/curso/tema1/img17.svg' alt="Imagen decorativa")
+                  img(src='@/assets/curso/tema1/img17.png' alt="Imagen decorativa")
               h4.text-white.text-center.mb-0 La nacionalidad 
           .col-lg.col-sm-4.col-6.mb-lg-0.mb-4(data-aos="flip-up")
             .tarjeta--boton.color-primario.h-100.p-4
               .row.justify-content-center.mb-4
                 .col-9
-                  img(src='@/assets/curso/tema1/img18.svg' alt="Imagen decorativa")
+                  img(src='@/assets/curso/tema1/img18.png' alt="Imagen decorativa")
               h4.text-white.text-center.mb-0 La religión
     
     p(data-aos="fade-right") Para la recopilación de estos datos lo puede hacer directamente con el cliente o utilizando bases de datos, también se pueden analizar los perfiles de las redes sociales para extraer esta información para el beneficio del negocio, ya que la finalidad es establecer hacia dónde se dirigirán los esfuerzos e intereses relacionados con los posibles clientes compradores.
@@ -384,31 +389,31 @@
             .tarjeta--boton.color-primario.h-100.p-4
               .row.justify-content-center.mb-4
                 .col-9
-                  img(src='@/assets/curso/tema1/img24.svg' alt="Imagen decorativa")
+                  img(src='@/assets/curso/tema1/img24.png' alt="Imagen decorativa")
               h4.text-white.text-center.mb-0 Edificios para su funcionamiento
           .col-lg.col-sm-4.col-6.mb-lg-0.mb-4(data-aos="flip-up")
             .tarjeta--boton.color-primario.h-100.p-4
               .row.justify-content-center.mb-4
                 .col-9
-                  img(src='@/assets/curso/tema1/img25.svg' alt="Imagen decorativa")
+                  img(src='@/assets/curso/tema1/img25.png' alt="Imagen decorativa")
               h4.text-white.text-center.mb-0 Contar con la maquinaria requerida
           .col-lg.col-sm-4.col-6.mb-lg-0.mb-4(data-aos="flip-up")
             .tarjeta--boton.color-primario.h-100.p-4
               .row.justify-content-center.mb-4
                 .col-9
-                  img(src='@/assets/curso/tema1/img26.svg' alt="Imagen decorativa")
+                  img(src='@/assets/curso/tema1/img26.png' alt="Imagen decorativa")
               h4.text-white.text-center.mb-0 Contar con el equipo que se requiere
           .col-lg.col-sm-4.col-6.mb-lg-0.mb-4(data-aos="flip-up")
             .tarjeta--boton.color-primario.h-100.p-4
               .row.justify-content-center.mb-4
                 .col-9
-                  img(src='@/assets/curso/tema1/img27.svg' alt="Imagen decorativa")
+                  img(src='@/assets/curso/tema1/img27.png' alt="Imagen decorativa")
               h4.text-white.text-center.mb-0 Vincular el talento humano capacitado 
           .col-lg.col-sm-4.col-6.mb-lg-0.mb-4(data-aos="flip-up")
             .tarjeta--boton.color-primario.h-100.p-4
               .row.justify-content-center.mb-4
                 .col-9
-                  img(src='@/assets/curso/tema1/img28.svg' alt="Imagen decorativa")
+                  img(src='@/assets/curso/tema1/img28.png' alt="Imagen decorativa")
               h4.text-white.text-center.mb-0 Contar con el capital financiero (efectivo y crédito), entre otros elementos
       .col-lg-10
         .tarjeta.BG05.p-4(data-aos="fade-right")
@@ -630,7 +635,7 @@
 
     figure.mb-5(data-aos="zoom-in")
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/1V3tMKCY2Bc?si=twZg0wMaEnHHoCVM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     ul.lista-ul--color.mb-5
       li(style="margin-bottom: 2px" data-aos="fade-right")
@@ -689,9 +694,12 @@
     p(data-aos="fade-right") Este modelo se basa en la comercialización de más de dos productos, casi similares pero que compiten entre sí y están bajo una sola organización, pero con diferentes marcas. Se hace para crear economías de escala y construir un imperio. Ejemplos: Nestlé, Unilever y Procter & Gamble.
     p.mb-5(data-aos="fade-right") Este es tipo de negocio una buena idea para las organizaciones que buscan tener presencia en diversos campos, puesto que les ayuda a maximizar las ganancias, conozca las ventajas:
 
+    .titulo-sexto.color-acento-contenido.mb-5(data-aos="fade-right")
+      h5 Figura 2.
+      span <i>Modelos de negocios de aprendizaje</i>
     figure.mb-5(data-aos="zoom-in")
-      img.d-lg-flex.d-none(src='@/assets/curso/tema1/img47.svg' alt="Imagen decorativa")
-      img.d-lg-none.d-flex(src='@/assets/curso/tema1/img47a.svg' alt="Imagen decorativa")
+      img.d-lg-flex.d-none(src='@/assets/curso/tema1/img47.svg' alt="Imagen que relaciona los nombres de los modelos de negocios de aprendizaje en línea más comunes.")
+      img.d-lg-none.d-flex(src='@/assets/curso/tema1/img47a.svg' alt="Imagen que relaciona los nombres de los modelos de negocios de aprendizaje en línea más comunes.")
     
     ul.lista-ul--color.mb-5
       li(style="margin-bottom: 2px" data-aos="fade-right")
@@ -859,18 +867,24 @@
           p(data-aos="fade-right") Esta herramienta es especialmente útil cuando se inicia un nuevo negocio o se ingresa a un mercado extranjero. A menudo se utiliza en colaboración con otras herramientas analíticas de negocios, como el análisis DAFO_FODA y las Cinco Fuerzas de Porter, para brindar una comprensión clara de una situación y los factores internos y externos relacionados.
           p.mb-5(data-aos="fade-right") El término #[b Pestel] contempla los siguientes elementos:
           .row.justify-content-center
-            .col-lg.col-md-3.col-sm-4.col-6.mb-lg-0.mb-4(data-aos="fade-right")
-              img(src='@/assets/curso/tema1/img59.svg' alt="Imagen decorativa")
-            .col-lg.col-md-3.col-sm-4.col-6.mb-lg-0.mb-4(data-aos="flip-right")
-              img(src='@/assets/curso/tema1/img60.svg' alt="Imagen decorativa")
-            .col-lg.col-md-3.col-sm-4.col-6.mb-lg-0.mb-4(data-aos="flip-up")
-              img(src='@/assets/curso/tema1/img61.svg' alt="Imagen decorativa")
-            .col-lg.col-md-3.col-sm-4.col-6.mb-lg-0.mb-4(data-aos="flip-up")
-              img(src='@/assets/curso/tema1/img62.svg' alt="Imagen decorativa")
-            .col-lg.col-md-3.col-sm-4.col-6.mb-lg-0.mb-4(data-aos="flip-left")
-              img(src='@/assets/curso/tema1/img63.svg' alt="Imagen decorativa")
-            .col-lg.col-md-3.col-sm-4.col-6.mb-lg-0.mb-4(data-aos="fade-left")
-              img(src='@/assets/curso/tema1/img64.svg' alt="Imagen decorativa")
+            .titulo-sexto.color-acento-contenido.mb-5(data-aos="fade-right")
+              h5 Figura 3.
+              span <i>Términos PESTEL</i>
+            .col-lg.col-md-3.col-sm-4.col-6.mb-lg-0.mb-4.desktop(data-aos="fade-right")
+              img(src='@/assets/curso/tema1/img59.svg' alt="Imagen que relaciona lo que representa cada letra del término PESTEL.")
+            .col-lg.col-md-3.col-sm-4.col-6.mb-lg-0.mb-4.desktop(data-aos="flip-right")
+              img(src='@/assets/curso/tema1/img60.svg' alt="Imagen que relaciona lo que representa cada letra del término PESTEL.")
+            .col-lg.col-md-3.col-sm-4.col-6.mb-lg-0.mb-4.desktop(data-aos="flip-up")
+              img(src='@/assets/curso/tema1/img61.svg' alt="Imagen que relaciona lo que representa cada letra del término PESTEL.")
+            .col-lg.col-md-3.col-sm-4.col-6.mb-lg-0.mb-4.desktop(data-aos="flip-up")
+              img(src='@/assets/curso/tema1/img62.svg' alt="Imagen que relaciona lo que representa cada letra del término PESTEL.")
+            .col-lg.col-md-3.col-sm-4.col-6.mb-lg-0.mb-4.desktop(data-aos="flip-left")
+              img(src='@/assets/curso/tema1/img63.svg' alt="Imagen que relaciona lo que representa cada letra del término PESTEL.")
+            .col-lg.col-md-3.col-sm-4.col-6.mb-lg-0.mb-4.desktop(data-aos="fade-left")
+              img(src='@/assets/curso/tema1/img64.svg' alt="Imagen que relaciona lo que representa cada letra del término PESTEL.")
+            
+            figure.movil(data-aos="zoom-in")
+              img(src='@/assets/curso/tema1/img59_.svg' alt="Imagen que relaciona lo que representa cada letra del término PESTEL.")
 
       ul.lista-ul--color.mb-5
         li(style="margin-bottom: 2px" data-aos="fade-right")
@@ -920,31 +934,31 @@
             .tarjeta--boton.color-primario.h-100.p-4
               .row.justify-content-center.mb-4
                 .col-9
-                  img(src='@/assets/curso/tema1/img65.svg' alt="Imagen decorativa")
+                  img(src='@/assets/curso/tema1/img65.png' alt="Imagen decorativa")
               h4.text-white.text-center.mb-0 Competencia
           .col-lg.col-sm-4.col-6.mb-lg-0.mb-4(data-aos="flip-right")
             .tarjeta--boton.color-primario.h-100.p-4
               .row.justify-content-center.mb-4
                 .col-9
-                  img(src='@/assets/curso/tema1/img66.svg' alt="Imagen decorativa")
+                  img(src='@/assets/curso/tema1/img66.png' alt="Imagen decorativa")
               h4.text-white.text-center.mb-0 Proveedor
           .col-lg.col-sm-4.col-6.mb-lg-0.mb-4(data-aos="flip-up")
             .tarjeta--boton.color-primario.h-100.p-4
               .row.justify-content-center.mb-4
                 .col-9
-                  img(src='@/assets/curso/tema1/img67.svg' alt="Imagen decorativa")
+                  img(src='@/assets/curso/tema1/img67.png' alt="Imagen decorativa")
               h4.text-white.text-center.mb-0 Comprador
           .col-lg.col-sm-4.col-6.mb-lg-0.mb-4(data-aos="flip-left")
             .tarjeta--boton.color-primario.h-100.p-4
               .row.justify-content-center.mb-4
                 .col-9
-                  img(src='@/assets/curso/tema1/img68.svg' alt="Imagen decorativa")
+                  img(src='@/assets/curso/tema1/img68.png' alt="Imagen decorativa")
               h4.text-white.text-center.mb-0 Amenaza de nueva entrada
           .col-lg.col-sm-4.col-6.mb-lg-0.mb-4(data-aos="fade-left")
             .tarjeta--boton.color-primario.h-100.p-4
               .row.justify-content-center.mb-4
                 .col-9
-                  img(src='@/assets/curso/tema1/img69.svg' alt="Imagen decorativa")
+                  img(src='@/assets/curso/tema1/img69.png' alt="Imagen decorativa")
               h4.text-white.text-center.mb-0 Amenaza de productos sustitutos
 
     p.mb-5(data-aos="fade-right") Estas cinco fuerzas sustentan la estrategia, le ayudan a analizar los intereses e inclinaciones de la industria, le permiten evaluar las opciones de inversión y medir la competencia.
@@ -962,9 +976,12 @@
           p En este modelo se fusiona la penetración del mercado, el desarrollo de mercado y el desarrollo de productos, que son algunas de las alternativas que la empresa utiliza para alcanzar y aumentar la oferta de los productos. 
           p.mb-0 Cada una de estas estrategias viene con un cierto nivel de riesgo en la implementación que los líderes de la organización pueden evaluar antes de seguir adelante con el uso de la estrategia.
         p.mb-5(data-aos="fade-right") La matriz de Ansoff  está compuesta por los siguientes elementos:
+        .titulo-sexto.color-acento-contenido.mb-5(data-aos="fade-right")
+          h5 Figura 4.
+          span <i>Matriz de Ansoff</i>
         figure
-          img.d-lg-flex.d-none(src='@/assets/curso/tema1/img70.svg' alt="Imagen decorativa")
-          img.d-lg-none.d-flex(src='@/assets/curso/tema1/img70a.svg' alt="Imagen decorativa")
+          img.d-lg-flex.d-none(src='@/assets/curso/tema1/img70.svg' alt="Figura que contiene una representación de la Matriz de Ansoff, la cual relaciona aspectos de mercado y productos como son: desarrollo de mercado, diversificación, penetración del mercado y desarrollo de productos.")
+          img.d-lg-none.d-flex(src='@/assets/curso/tema1/img70a.svg' alt="Figura que contiene una representación de la Matriz de Ansoff, la cual relaciona aspectos de mercado y productos como son: desarrollo de mercado, diversificación, penetración del mercado y desarrollo de productos.")
     
     ul.lista-ul--color.mb-5
       li(style="margin-bottom: 2px" data-aos="fade-right")
@@ -976,9 +993,12 @@
 
     .row.justify-content-center.mb-5
       .col-lg-10
+        .titulo-sexto.color-acento-contenido.mb-5(data-aos="fade-right")
+          h5 Figura 5.
+          span <i>Matriz FODA</i>
         figure
-          img.d-lg-flex.d-none(src='@/assets/curso/tema1/img71.svg' alt="Imagen decorativa")
-          img.d-lg-none.d-flex(src='@/assets/curso/tema1/img70a.svg' alt="Imagen decorativa")
+          img.d-lg-flex.d-none(src='@/assets/curso/tema1/img71.svg' alt="Figura que representa los aspectos de la Matriz FODA, los cuales se dividen por: Factores internos: Fortalezas – Debilidades Factores internos: Oportunidades – Amenazas")
+          img.d-lg-none.d-flex(src='@/assets/curso/tema1/img71a.svg' alt="Figura que representa los aspectos de la Matriz FODA, los cuales se dividen por: Factores internos: Fortalezas – Debilidades Factores internos: Oportunidades – Amenazas")
 
     ul.lista-ul--color.mb-5
       li(style="margin-bottom: 2px" data-aos="fade-right")
@@ -1127,15 +1147,18 @@
     
     p.mb-5 Toda organización cuenta con una serie de procesos que le permiten cumplir con los objetivos propuestos y las actividades según el cronograma establecido, por esa razón es indispensable conocer cuáles son:
 
-    figure.mb-5
-      img.mb-lg-0.mb-4(src='@/assets/curso/tema1/img81.svg', alt='Imagen decorativa')
-      a.anexo.d-lg-none.d-flex(:href="obtenerLink('/downloads/anexo_mapa_de_procesos.pdf')" target="_blank")
-        .anexo__icono
-          img(src="@/assets/template/icono-pdf.svg")
-        .anexo__texto
-          p #[b Descargar]. El Mapa de procesos.
+    .titulo-sexto.color-acento-contenido.mb-5(data-aos="fade-right")
+      h5 Figura 6.
+      span <i>Proceso según su naturaleza</i>
+    figure.mb-5.desktop
+      img.mb-lg-0.mb-4(src='@/assets/curso/tema1/img81.svg', alt='Figura que relaciona los aspectos que se deben tener en cuenta en el tipo de naturaleza de los aspectos organizacionales, como son los procesos: gerenciales, operativos y de soporte.')
+    a.anexo.d-lg-none.d-flex.movil(:href="obtenerLink('/downloads/anexo_mapa_de_procesos.pdf')" target="_blank")
+      .anexo__icono
+        img(src="@/assets/template/icono-pdf.svg")
+      .anexo__texto
+        p #[b Descargar]. El Mapa de procesos.
 
-    .mb-4.d-flex(data-aos="fade-right")
+    .mb-4.d-flex(data-aos="fade-right").mt-5
       .d-flex.align-items-center.pe-4.BGR01
         img(src='@/assets/curso/temas/img01.svg' style="max-width: 30px;")
         h4.col.ps-3.tcp.mb-0 Según su desempeño
@@ -1364,43 +1387,46 @@
         .tarjeta--boton.color-primario.h-100.p-4
           .row.justify-content-center.mb-4
             .col-8
-              img(src='@/assets/curso/tema1/img96.svg' alt='Imagen decorativa')
+              img(src='@/assets/curso/tema1/img96.png' alt='Imagen decorativa')
           .text-white
             .h4.text-center Recursos humanos
       .col-lg-2.col-sm-4.col-6.mb-lg-0.mb-4(data-aos="flip-right")
         .tarjeta--boton.color-primario.h-100.p-4
           .row.justify-content-center.mb-4
             .col-8
-              img(src='@/assets/curso/tema1/img97.svg' alt='Imagen decorativa')
+              img(src='@/assets/curso/tema1/img97.png' alt='Imagen decorativa')
           .text-white
             .h4.text-center Contabilidad
       .col-lg-2.col-sm-4.col-6.mb-lg-0.mb-4(data-aos="flip-up")
         .tarjeta--boton.color-primario.h-100.p-4
           .row.justify-content-center.mb-4
             .col-8
-              img(src='@/assets/curso/tema1/img98.svg' alt='Imagen decorativa')
+              img(src='@/assets/curso/tema1/img98.png' alt='Imagen decorativa')
           .text-white
             .h4.text-center Relaciones con los clientes
       .col-lg-2.col-sm-4.col-6.mb-lg-0.mb-4(data-aos="flip-left")
         .tarjeta--boton.color-primario.h-100.p-4
           .row.justify-content-center.mb-4
             .col-8
-              img(src='@/assets/curso/tema1/img99.svg' alt='Imagen decorativa')
+              img(src='@/assets/curso/tema1/img99.png' alt='Imagen decorativa')
           .text-white
             .h4.text-center Atención al cliente (soporte técnico)
       .col-lg-2.col-sm-4.col-6.mb-lg-0.mb-4(data-aos="fade-left")
         .tarjeta--boton.color-primario.h-100.p-4
           .row.justify-content-center.mb-4
             .col-8
-              img(src='@/assets/curso/tema1/img100.svg' alt='Imagen decorativa')
+              img(src='@/assets/curso/tema1/img100.png' alt='Imagen decorativa')
           .text-white
             .h4.text-center Actividades comerciales administrativas
 
     p.mb-5(data-aos="fade-right") Los servicios de subcontratación son importantes porque mejoran la velocidad y la eficiencia de varios procesos comerciales entre los que lideran en nuestro país se encuentran:
 
+    .titulo-sexto.color-acento-contenido.mb-5(data-aos="fade-right")
+      h5 Figura 7.
+      span <i>Subcontratación de servicios</i>
     figure.mb-5(data-aos="zoom-in")
-      img.d-lg-flex.d-none(src='@/assets/curso/tema1/img101.svg' alt='Imagen decorativa')
-      img.d-lg-none.d-flex(src='@/assets/curso/tema1/img101a.svg' alt='Imagen decorativa')
+      img.d-lg-flex.d-none(src='@/assets/curso/tema1/img101.svg' alt='Figura que contiene los aspectos presentes en la subcontratación y los cuales tiene que ver con las siguientes áreas: Ciencias sociales. Salud. Servicios de voz. Tecnología. Administrativa.')
+      img.d-lg-none.d-flex(src='@/assets/curso/tema1/img101a.svg' alt='Figura que contiene los aspectos presentes en la subcontratación y los cuales tiene que ver con las siguientes áreas: Ciencias sociales. Salud. Servicios de voz. Tecnología. Administrativa.')
 
     .row.justify-content-center.mb-5
       .col-lg-4.col-8.mb-lg-0.mb-4(data-aos="fade-right")

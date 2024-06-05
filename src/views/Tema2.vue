@@ -136,8 +136,8 @@
       .row.justify-content-center.mb-5
         .col-lg-8
           .titulo-sexto.color-secundario(data-aos="fade-right")
-            h5 Tabla 3.
-            i Identificación de riesgos
+            h5 Tabla 4.
+            i Plan de mejora, ventajas y retos
           .tabla-a.color-secundario
             table(data-aos="zoom-in"  alt="Texto alternativo tabla")
               thead(style="border-color: transparent")
@@ -198,9 +198,12 @@
 
     .row.justify-content-center.mb-5
       .col-lg-10
+        .titulo-sexto.color-acento-contenido.mb-5(data-aos="fade-right")
+          h5 Figura 8.
+          span <i>Análisis de riesgo</i>
         figure.mb-4(data-aos="zoom-in")
-          img.d-lg-flex.d-none(src='@/assets/curso/tema2/img10.svg' alt="Imagen decorativa")
-          img.d-lg-none.d-flex(src='@/assets/curso/tema2/img10a.svg' alt="Imagen decorativa")
+          img.d-lg-flex.d-none(src='@/assets/curso/tema2/img10.svg' alt="Figura que relaciona los aspectos que se deben tener en cuenta al momento de realizar un análisis de riesgo; estos son: estrategia, plan, evaluación, procesos, control y por supuesto, análisis.")
+          img.d-lg-none.d-flex(src='@/assets/curso/tema2/img10a.svg' alt="Figura que relaciona los aspectos que se deben tener en cuenta al momento de realizar un análisis de riesgo; estos son: estrategia, plan, evaluación, procesos, control y por supuesto, análisis.")
         .cajon.color-primario.p-4(data-aos="fade-right")
           p La frecuencia con la que se mide un indicador es un factor importante, entre más se actualice un indicador, más útil será el riesgo que representa. aunque, puede haber ocasiones en las que una medición más frecuente muestre solo pequeños cambios en el perfil de riesgo. Por tanto, es importante considerar la tendencia a más largo plazo de las medidas antes de llegar a conclusiones sobre los cambios en la manifestación del riesgo.
           p.mb-0 Los indicadores que necesita conocer para poder medir los riesgos que se presentan en la organización se describen a continuación:
@@ -339,6 +342,7 @@
       template(v-slot:imagen)
         figure
           img(src='@/assets/curso/tema2/img18.svg', alt='Imagen decorativa')
+          figcaption Imagen No. 1. Norma ISO 31000. Proceso de gestion del riesgo. Fuente (Pardo, J. 2019)
           
 
       .tarjeta.BG07.p-3(x="13%" y="62%" numero="1")
