@@ -477,12 +477,12 @@
             p Dentro de las ventajas de la economía de alcance, se tiene:
             ol.lista-ol--cuadro
               li 
-                .lista-ol--cuadro__vineta(style="background-color: #EBA325")
-                  span 1
+                .lista-ol--cuadro__vineta(style="background-color: #6DEBFF")
+                  span(style="color: #12263F") 1
                 | Hay menos riesgo en un negocio que vende más de un producto y/o segmenta varios mercados, puesto que la empresa tendrá más alternativas para sostenerse si se ve afectada por el mercado, mientras acomoda y encamina sus estrategias para recuperarse. 
               li 
-                .lista-ol--cuadro__vineta(style="background-color: #EBA325")
-                  span 2
+                .lista-ol--cuadro__vineta(style="background-color: #6DEBFF")
+                  span(style="color: #12263F") 2
                 | La flexibilidad para fusionar productos para evitar el desperdicio de materia prima con el fin de tener mayor capacidad de respuesta ante los cambios del mercado.
 
     .row.justify-content-center.mb-5
@@ -741,7 +741,7 @@
 
     figure.mb-5(data-aos="zoom-in")
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/mYgnm1SlUbY?si=c7gTkmcJaDDTOw4m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     .row.justify-content-center.mb-4
       .col-lg-8
@@ -992,7 +992,7 @@
     p.mb-5(data-aos="fade-right") Es una técnica muy utilizada por la planeación estratégica, ya que permite diagnosticar las fortalezas, oportunidades, debilidades y amenazas, además, conduce a un análisis basado en realidades y no en supuestos. 
 
     .row.justify-content-center.mb-5
-      .col-lg-10
+      .col-lg-8
         .titulo-sexto.color-acento-contenido.mb-5(data-aos="fade-right")
           h5 Figura 5.
           span <i>Matriz FODA</i>
@@ -1150,7 +1150,7 @@
     .titulo-sexto.color-acento-contenido.mb-5(data-aos="fade-right")
       h5 Figura 6.
       span <i>Proceso según su naturaleza</i>
-    figure.mb-5.desktop
+    figure.mb-5
       img.mb-lg-0.mb-4(src='@/assets/curso/tema1/img81.svg', alt='Figura que relaciona los aspectos que se deben tener en cuenta en el tipo de naturaleza de los aspectos organizacionales, como son los procesos: gerenciales, operativos y de soporte.')
     a.anexo.d-lg-none.d-flex.movil(:href="obtenerLink('/downloads/anexo_mapa_de_procesos.pdf')" target="_blank")
       .anexo__icono
@@ -1421,12 +1421,14 @@
 
     p.mb-5(data-aos="fade-right") Los servicios de subcontratación son importantes porque mejoran la velocidad y la eficiencia de varios procesos comerciales entre los que lideran en nuestro país se encuentran:
 
-    .titulo-sexto.color-acento-contenido.mb-5(data-aos="fade-right")
-      h5 Figura 7.
-      span <i>Subcontratación de servicios</i>
-    figure.mb-5(data-aos="zoom-in")
-      img.d-lg-flex.d-none(src='@/assets/curso/tema1/img101.svg' alt='Figura que contiene los aspectos presentes en la subcontratación y los cuales tiene que ver con las siguientes áreas: Ciencias sociales. Salud. Servicios de voz. Tecnología. Administrativa.')
-      img.d-lg-none.d-flex(src='@/assets/curso/tema1/img101a.svg' alt='Figura que contiene los aspectos presentes en la subcontratación y los cuales tiene que ver con las siguientes áreas: Ciencias sociales. Salud. Servicios de voz. Tecnología. Administrativa.')
+    .row.justify-content-center
+      .col-lg-10.col-12
+        .titulo-sexto.color-acento-contenido.mb-5(data-aos="fade-right")
+          h5 Figura 7.
+          span <i>Subcontratación de servicios</i>
+        figure.mb-5(data-aos="zoom-in")
+          img.d-lg-flex.d-none(src='@/assets/curso/tema1/img101.svg' alt='Figura que contiene los aspectos presentes en la subcontratación y los cuales tiene que ver con las siguientes áreas: Ciencias sociales. Salud. Servicios de voz. Tecnología. Administrativa.')
+          img.d-lg-none.d-flex(src='@/assets/curso/tema1/img101a.svg' alt='Figura que contiene los aspectos presentes en la subcontratación y los cuales tiene que ver con las siguientes áreas: Ciencias sociales. Salud. Servicios de voz. Tecnología. Administrativa.')
 
     .row.justify-content-center.mb-5
       .col-lg-4.col-8.mb-lg-0.mb-4(data-aos="fade-right")

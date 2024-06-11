@@ -70,8 +70,10 @@
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-12.order-lg-1.order-2(data-aos="fade-right")
-        .row.justify-content-center.align-items-center.mb-5
-          .col-lg-10.order-lg-1.order-2(data-aos="fade-right")
+        .row.justify-content-center.align-items-center
+          .col-lg-3.col-6.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
+            img(src='@/assets/curso/tema2/img06.png' alt="Imagen decorativa")
+          .col-lg-9.lg-1.order-2(data-aos="fade-right")
             TabsA.color-acento-botones.mb-4
               .tarjeta.BG07.p-4(titulo="Riesgos financieros")
                 p Los riesgos a los que se enfrentan las empresas de servicios financieros tienden a estar arraigados en los números y, por lo tanto, pueden cuantificarse y analizarse de forma eficaz utilizando tecnología conocida y métodos maduros. Los escenarios de riesgo en las compañías financieras se pueden modelar con cierta precisión.
@@ -79,17 +81,15 @@
                 p El riesgo tiende a ser más cualitativo y, por lo tanto, más difícil de administrar, lo que aumenta la necesidad de un enfoque deliberado, completo y consistente para la gestión de riesgos. Los programas de gestión de riesgos empresariales tienen como objetivo ayudar a estas empresas a ser lo más inteligentes posible en la gestión de riesgos.
               .tarjeta.BG07.p-4(titulo="Riesgos empresariales")
                 p Tienen como objetivo mitigar los riesgos que podrían dañar a las empresas, por ello para prevenir cualquier amenaza física, por lo que se adquiere la compra de un seguro para protegerse contra una variedad de riesgos, desde pérdidas por incendio y robo hasta responsabilidad cibernética. 
-      .col-lg-9.order-lg-1.order-2(data-aos="fade-right")
-        .row.justify-content-center.align-items-center.mb-5
-          .tarjeta.color-secundario.p-4.text-white
-            .row.justify-content-center.align-items-center
-              .col-lg-2.col-4.mb-lg-0.mb-4(data-aos="fade-right")
-                img.mx-auto(src='@/assets/curso/tema1/img01.svg' alt="Imagen decorativa" style="max-width: 90px;")
-              .col-lg-10(data-aos="fade-left")
-                .h4 Importante…
-                p.mb-0 Partiendo de la información recolectada anteriormente la organización entonces debe diseñar un programa de gestión de riesgos, el cual le ayuda a considerar la diversidad de problemas que enfrenta, también examina la relación entre los riesgos y el impacto en caída que podrían tener en los objetivos estratégicos de una organización.
-      .col-lg-3.col-6.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
-        img(src='@/assets/curso/tema2/img06.png' alt="Imagen decorativa")
+            .row.justify-content-center.align-items-center.mb-5
+              .tarjeta.color-secundario.p-4.text-white
+                .row.justify-content-center.align-items-center
+                  .col-lg-2.col-4.mb-lg-0.mb-4(data-aos="fade-right")
+                    img.mx-auto(src='@/assets/curso/tema1/img01.svg' alt="Imagen decorativa" style="max-width: 90px;")
+                  .col-lg-10(data-aos="fade-left")
+                    .h4 Importante…
+                    p.mb-0 Partiendo de la información recolectada anteriormente la organización entonces debe diseñar un programa de gestión de riesgos, el cual le ayuda a considerar la diversidad de problemas que enfrenta, también examina la relación entre los riesgos y el impacto en caída que podrían tener en los objetivos estratégicos de una organización.
+      
 
     p.mb-5(data-aos="fade-right") Por lo tanto, un programa de gestión de riesgos debe estar entrelazado con la estrategia organizacional en donde se determinen los riesgos en los que la organización requiere de controles y acciones adicionales que sean aceptables o tolerables. Es importante que se acepten algunos de ellos sin que sea necesaria ninguna otra acción, otros son mitigados, compartidos o evitados por completo.
 
