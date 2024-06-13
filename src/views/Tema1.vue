@@ -649,7 +649,37 @@
         .cajon.color-primario.p-4(data-aos="flip-up")
           p.mb-0 Los consultores buscan crear estrategias a través de modelos de negocios innovadores y recientes, por ello, se describen aquí algunos de estos modelos de negocios:
 
-    figure.mb-5(data-aos="zoom-in")
+    .tarjeta--container.row.mb-5
+      .col-md.tarjeta.color-primario.p-5
+        .row.justify-content-center.mb-4
+          .col-6
+            figure
+              img(src='@/assets/curso/tema1/img104.svg', alt='Texto que describa la imagen')
+          
+        h4.text-center Consultoría colaborativa
+        p Los modelos de consultoría de este tipo tienen <b>costos fijos bajos</b>, ya que los miembros pueden acceder al talento que no está en su nómina a medida que surge un proyecto relevante, aunque esto a su vez <b>puede conducir a costos variables altos</b>, lo que hace que la planificación financiera a largo plazo sea más difícil.
+        p Las consultorías que utilizan este modelo lo hacen por su capacidad de obtener un conjunto más amplio de <b>conocimientos y una mayor agilidad para hacer frente a los cambios en la demanda</b>.
+
+      .col-md.tarjeta.color-secundario.p-5
+        .row.justify-content-center.mb-4
+          .col-6
+            figure
+              img(src='@/assets/curso/tema1/img104.svg', alt='Texto que describa la imagen')
+          
+        h4.text-center Consultoría continua
+        p Aquí las empresas de consultoría adoptan un modelo continuo, por lo que pueden contar con un <b>flujo permanente de ingresos de sus clientes</b>, casi como una suscripción de consultoría, lo que lleva a un <b>alto nivel de interacción en línea entre el cliente y la empresa</b>.
+        p Las herramientas y los procesos implementados por <b>consultores continuos atraen a los clientes por su uso repetido</b>, porque facilitan la entrega de resultados, ayudan a <b>solucionar los problemas</b> que ocurren con regularidad, y pueden estar más <b>actualizados</b>.
+
+      .col-md.tarjeta.color-acento-contenido.p-5
+        .row.justify-content-center.mb-4
+          .col-6
+            figure
+              img(src='@/assets/curso/tema1/img104.svg', alt='Texto que describa la imagen')
+          
+        h4.text-center Consultoría instantánea
+        p El modelo de consultoría instantánea puede <b>enseñar</b> a los empleados de una empresa los <b>conceptos básicos</b> de los principios financieros antes de aplicar lo aprendido para que las ganancias se aprecien muy rápidamente Busca mostrar su valor al cliente desde la primera oportunidad y es ideal para un entorno <b>empresarial disruptivo</b>, donde la agilidad es clave para mantener el ritmo de los competidores, la fortaleza clave de la consultoría instantánea es su <b>velocidad</b>.
+
+    //-figure.mb-5(data-aos="zoom-in")
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
@@ -709,7 +739,31 @@
     p(data-aos="fade-right") Un modelo comercial simple pero muy prometedor, el comercio electrónico permite a los compradores y vendedores conectarse y realizar transacciones utilizando una plataforma en línea (tienda en línea). Ejemplo: Amazon, OLX, Walmart, etc.
     p.mb-5(data-aos="fade-right") Este modelo de negocio permite a las empresas y los consumidores realizar compras o vender cosas en línea, a continuación, se muestran algunas alternativas: 
 
-    figure.mb-5(data-aos="zoom-in")
+    TabsB.color-acento-botones.mb-5(data-aos="zoom-in")
+      .BG07.p-4(titulo="Empresa a Consumidor" :icono="require('@/assets/curso/tema1/img107.svg')")
+        p.mt-4 Es cuando una empresa comercializa sus productos o servicios directamente a los usuarios finales.
+        p Es la forma de comercio más conocida, es bastante sencilla y sucede cada vez que compras alimentos en una tienda, se alimenta en un restaurante, va al cine a ver una película, etc.
+        p En cualquiera de los anteriores casos, está presente el usuario final de los productos y servicios que venden estas empresas.
+      .BG07.p-4(titulo="Empresa a Empresa" :icono="require('@/assets/curso/tema1/img108.svg')")
+        p.mt-4 Es cuando una empresa comercializa sus productos o servicios directamente a otras empresas. 
+        p Este modelo se puede dividir en dos métodos: vertical y horizontal. Las empresas orientadas verticalmente venden a clientes dentro de una industria específica. Las empresas orientadas de manera horizontal, están vendiendo a clientes en una gran variedad de industrias. 
+        p Entre los servicios que ofrece este modelo se encuentra: autenticación de usuarios, administración de bases de datos, actualización remota, notificaciones automáticas, almacenamiento en la nube y alojamiento.
+      .BG07.p-4(titulo="Empresa - empresa - consumidor" :icono="require('@/assets/curso/tema1/img109.svg')")
+        p.mt-4 Una empresa vende productos a otra empresa que luego los venden a los consumidores.
+        p La principal ventaja del modelo de negocio para las empresas de comercio electrónico es el aumento de nuevos clientes. 
+        p Esta es una consideración importante para las nuevas empresas de comercio electrónico que necesitan una forma de hacer crecer rápidamente su base de clientes.
+      .BG07.p-4(titulo="Consumidor a Empresa" :icono="require('@/assets/curso/tema1/img110.svg')")
+        p.mt-4 Aquí las personas venden bienes y servicios directamente a las empresas.
+        p Vemos esto más comúnmente en sitios web que permiten a las personas compartir el trabajo o los servicios en los que son expertos. 
+        p A menudo, las empresas presentan una solicitud o una oferta por el tiempo de esa persona y le pagan a través de esa plataforma. 
+        p Este modelo brinda a las empresas la capacidad de encontrar y obtener expertos de apoyo para proyectos específicos.
+      .BG07.p-4(titulo="Consumidor a Consumidor" :icono="require('@/assets/curso/tema1/img111.svg')")
+        p.mt-4 Los consumidores venden bienes o servicios directamente a otros consumidores.
+        p Esto suele ser posible gracias a sitios web de terceros o mercados que facilitan las transacciones en nombre de los compradores y vendedores. 
+        p Estos mercados de comercio electrónico permiten a las empresas más pequeñas, o incluso a los aficionados, vender sus productos a su propio precio.
+        p Como puede ver el modelo de comercio electrónico ha tomado mucha fuerza gracias a las diferentes estrategias de uso como: sitios web, redes sociales, chat, etc.
+
+    //-figure.mb-5(data-aos="zoom-in")
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
