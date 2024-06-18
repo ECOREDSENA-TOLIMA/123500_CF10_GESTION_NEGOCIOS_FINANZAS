@@ -10,7 +10,7 @@
             img(src="@/assets/template/arrastrar.svg", alt="Imagen decorativa")
       .col-12.col-md-8.col-lg-9(data-aos="fade-left")
         .titulo-segundo
-          h2 Exploró el negocio
+          h2 Exploro el negocio
         p.mb-4 Aplicar los conocimientos sobre modelo de negocios y sistemas de gestión del riesgo en una empresa según el tipo y los riesgos del negocio.
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            
