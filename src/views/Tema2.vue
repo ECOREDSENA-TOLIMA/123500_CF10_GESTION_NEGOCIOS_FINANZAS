@@ -147,7 +147,7 @@
               tbody
                 tr(data-aos="fade-right")
                   td(style="background-color: #F6F6F6;") Optimización de la conciencia del riesgo en toda la organización.
-                  td(style="background-color: #F6F6F6;") Los gastos se incrementan inicialmente, ya que los programas de gestión de riesgos pueden requerir software y servicios costosos.
+                  td(style="background-color: #F6F6F6;") Los gastos se incrementan inicialmente, ya que los programas de gestión de riesgos pueden requerir <i>software</i> y servicios costosos.
                 tr(data-aos="fade-right")
                   td(style="background-color: #F6F6F6;") Seguridad en los objetivos y metas de la organización porque el riesgo se incluye en la estrategia.
                   td(style="background-color: #F6F6F6;") Se requiere en algunos casos que las unidades de negocios inviertan tiempo y dinero para cumplir.
@@ -164,13 +164,13 @@
                   td(style="background-color: #F6F6F6;") Diferenciador competitivo en el mercado.
                   td(style="background-color: #F6F6F6;") 
 
-    p(data-aos="fade-right") Para hacer la identificación de los riesgos se hace necesario conocer los tipos de análisis que se pueden utilizar como herramientas de recolección de información que le permiten posteriormente organizarla y analizarla, para transfórmala en elementos para la toma de decisiones que mejoren la empresa, pero qué implica eso para la organización, sería la pregunta a responder.
+    p(data-aos="fade-right") Para hacer la identificación de los riesgos se hace necesario conocer los tipos de análisis que se pueden utilizar como herramientas de recolección de información que le permiten posteriormente organizarla y analizarla, para transformarla en elementos para la toma de decisiones que mejoren la empresa, pero qué implica eso para la organización, sería la pregunta a responder.
     p.mb-5(data-aos="fade-right") Por lo anterior, el análisis en la gestión del riesgo ha de tomarse el tiempo para identificar, analizar, categorizar, priorizar y medir el impacto de los factores externos riesgos antes de comenzar el trabajo, para esto existen dos métodos bien establecidos que lo dominan los cuales se describen a continuación: cualitativa y cuantitativa. 
 
     AcordionA.mb-5(tipo="b" clase-tarjeta="BGR02" data-aos="zoom-in")
       .row.justify-content-center.align-items-center(titulo="Análisis Cualitativo")
         .col-lg-8.order-lg-1.order-2
-          p El análisis de riesgo cualitativo tiende a ser más subjetivo enfocándose en identificar riesgos para medir tanto la probabilidad de que ocurra un evento de riesgo específico durante los momentos del negocio como el impacto que tendrá en el cronograma general en caso de que ocurra.
+          p El análisis de riesgo cualitativo tiende a ser más subjetivo, enfocándose en identificar riesgos para medir tanto la probabilidad de que ocurra un evento de riesgo específico durante los momentos del negocio como el impacto que tendrá en el cronograma general en caso de que ocurra.
           p El objetivo es determinar la gravedad, luego, los resultados se registran en una matriz de evaluación de riesgos para comunicar las eventualidades pendientes a las partes interesadas.
           p Es útil para medir la probabilidad y priorizar el riesgo de una manera que sea fácil de entender para las personas que no controlan el proyecto. Esto puede ayudar con la aceptación de las partes interesadas al ofrecer una pequeña muestra del panorama de riesgo más amplio.
         .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4
@@ -205,7 +205,7 @@
           img.d-lg-flex.d-none(src='@/assets/curso/tema2/img10.svg' alt="Figura que relaciona los aspectos que se deben tener en cuenta al momento de realizar un análisis de riesgo; estos son: estrategia, plan, evaluación, procesos, control y por supuesto, análisis.")
           img.d-lg-none.d-flex(src='@/assets/curso/tema2/img10a.svg' alt="Figura que relaciona los aspectos que se deben tener en cuenta al momento de realizar un análisis de riesgo; estos son: estrategia, plan, evaluación, procesos, control y por supuesto, análisis.")
         .cajon.color-primario.p-4(data-aos="fade-right")
-          p La frecuencia con la que se mide un indicador es un factor importante, entre más se actualice un indicador, más útil será el riesgo que representa. aunque, puede haber ocasiones en las que una medición más frecuente muestre solo pequeños cambios en el perfil de riesgo. Por tanto, es importante considerar la tendencia a más largo plazo de las medidas antes de llegar a conclusiones sobre los cambios en la manifestación del riesgo.
+          p La frecuencia con la que se mide un indicador es un factor importante, entre más se actualice un indicador, más útil será el riesgo que representa, aunque, puede haber ocasiones en las que una medición más frecuente muestre solo pequeños cambios en el perfil de riesgo. Por tanto, es importante considerar la tendencia a más largo plazo de las medidas antes de llegar a conclusiones sobre los cambios en la manifestación del riesgo.
           p.mb-0 Los indicadores que necesita conocer para poder medir los riesgos que se presentan en la organización se describen a continuación:
 
     .mb-4.d-flex(data-aos="fade-right")
@@ -359,7 +359,7 @@
         p Son las técnicas y métodos de análisis que se utilizan para mitigar, prevenir y actuar en la gestión del riesgo, donde se debe categorizar el riesgo de acuerdo con la gravedad y la ocurrencia.
         table(alt="Texto alternativo tabla")
           thead(style="border-color: transparent")
-          caption Norma ISO 31000. <span style="font-weight: 400">Proceso de gestion del riesgo. Fuente (Pardo, J. 2019)</span>
+          caption Norma ISO 31000. <span style="font-weight: 400">Proceso de gestión del riesgo. Fuente (Pardo, J. 2019)</span>
             tr
               th.text-center(style="background-color: #FFF; font-size: 18px;") Gravedad
               th.text-center(style="background-color: #FFF; font-size: 18px;") Ocurrencia

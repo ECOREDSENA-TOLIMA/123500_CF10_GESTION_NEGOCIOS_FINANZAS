@@ -71,7 +71,7 @@
                 i.fas.fa-chevron-circle-right.tcp
                 | Las oportunidades para el financiamiento del emprendimiento o negocio. 
 
-    p(data-aos="fade-right") Los modelos de negocios son necesarios para hacer negocios de manera rentable focalizándose en las estrategias de las que dispone la empresa. Aquí es vital hablar de un término clave: la inversión, es decir la persona o personas que están dispuestos a invertir, por lo que cualquier toma de decisiones parte del análisis de la idea de negocio.
+    p(data-aos="fade-right") Los modelos de negocios son necesarios para hacer negocios de manera rentable, focalizándose en las estrategias de las que dispone la empresa. Aquí es vital hablar de un término clave: la inversión, es decir, la persona o personas que están dispuestos a invertir, por lo que cualquier toma de decisiones parte del análisis de la idea de negocio.
     p.mb-5(data-aos="fade-right") Para identificar si esta es rentable se deben considerar los siguientes elementos:
 
     .row.justify-content-center.mb-5
@@ -142,7 +142,7 @@
         img(src='@/assets/curso/temas/img01.svg' style="max-width: 30px;")
         h4.col.ps-3.tcp.mb-0 Lienzo de modelo de negocio o modelo Canvas
     
-    p.mb-5(data-aos="fade-right") Es un documento, generalmente de una página en el que se gráfica en detalle los puntos clave para llevar la idea al mercado, asimismo, es referenciada como una hoja de ruta que desglosa los elementos estratégicos para llevar a buen puerto el producto con éxito. El lienzo de modelo condensa los siguientes elementos:
+    p.mb-5(data-aos="fade-right") Es un documento, generalmente de una página, en el que se grafica en detalle los puntos clave para llevar la idea al mercado, asimismo, es referenciada como una hoja de ruta que desglosa los elementos estratégicos para llevar a buen puerto el producto con éxito. El lienzo de modelo condensa los siguientes elementos:
 
     .row.justify-content-center.mb-5
       .col-lg-10
@@ -187,7 +187,7 @@
                 p.mb-0 Resaltar qué lo hace #[b diferente de la competencia.]
               li(style="margin-bottom: 2px" data-aos="fade-left")
                 i.fas.fa-chevron-circle-right.tcp
-                p.mb-0 Céntrarse en cómo los clientes definen el valor, #[b cómo se quiere que ellos vean el producto o servicio.]
+                p.mb-0 Centrarse en cómo los clientes definen el valor, #[b cómo se quiere que ellos vean el producto o servicio.]
               li(style="margin-bottom: 2px" data-aos="fade-left")
                 i.fas.fa-chevron-circle-right.tcp
                 p.mb-0 Imaginar cómo #[b aumenta el interés o disminuye el problema] para la persona que hace uso de su producto o servicio.
@@ -308,7 +308,7 @@
       .row.justify-content-center.align-items-center(titulo="De distribución")
         .col-lg-8.order-lg-1.order-2
           p Los canales de distribución son los medios necesarios para entregar el producto al consumidor final, entendiendo que este puede ser minorista (tiendas de barrio) o mayoristas (almacenes de cadenas y supermercados), también debe identificarse si el canal de distribución es directo (relación vertical entre el fabricante y el cliente) o si es indirecto (comprende de varios intermediarios antes de que el producto llegue a su destino final).
-          p.mb-0 De lo anterior, se puede deducir que, si la empresa posee más intermediarios en el canal de distribución, el precio del producto incrementa; por el contrario, si opera con un solo canal directo el precio del producto puede ser más bajo.
+          p.mb-0 De lo anterior, se puede deducir que, si la empresa posee más intermediarios en el canal de distribución, el precio del producto incrementa; por el contrario, si opera con un solo canal directo, el precio del producto puede ser más bajo.
         .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4
           img(src='@/assets/curso/tema1/img19.png' alt="Imagen decorativa")
       .row.justify-content-center.align-items-center(titulo="De comunicación")
@@ -359,7 +359,7 @@
             | La calidad en el diseño.
           li(style="margin-bottom: 2px" data-aos="fade-right")
             i.fas.fa-chevron-circle-right.tcp
-            | La producción de grandes cantidades del producto. Estas acciones son importantes para la estructura el modelo de negocio y la propuesta de valor.
+            | La producción de grandes cantidades del producto. Estas acciones son importantes para la estructura, el modelo de negocio y la propuesta de valor.
 
       .row.justify-content-center.align-items-center.mb-5
         .col-lg-8.order-lg-1.order-2(data-aos="fade-right")
@@ -371,7 +371,7 @@
 
       .row.justify-content-center
         .col-lg-10.BParalel.px-5
-          p(data-aos="fade-right") Por otro lado, analizar las fortalezas y debilidades del producto es propicio para desarrollar otro punto clave, la estrategia, que colma los vacíos del mercado satisfaciendo la necesidad a raíz de nuevos productos. Es importante observar los elementos relacionados para comprender las actividades que son fundamentales para mantener buenas relaciones con el cliente para aportar a la propuesta de valor y aprovechar los flujos de ingresos.
+          p(data-aos="fade-right") Por otro lado, analizar las fortalezas y debilidades del producto es propicio para desarrollar otro punto clave, la estrategia, que colma los vacíos del mercado satisfaciendo la necesidad a raíz de nuevos productos. Es importante observar los elementos relacionados para comprender las actividades que son fundamentales para mantener buenas relaciones con el cliente, para aportar a la propuesta de valor y aprovechar los flujos de ingresos.
           p.mb-0(data-aos="fade-right") Por lo anterior, es indispensable que el cuadro de las actividades claves sea revisado constantemente, ya que en la medida que el negocio crezca será necesario incluir o modificar las tareas esenciales.
 
     ul.lista-ul--color.mb-5
@@ -418,14 +418,14 @@
       .col-lg-10
         .tarjeta.BG05.p-4(data-aos="fade-right")
           p También es importante definir qué tipo de materiales se necesitan, qué tipo de equipo se requiere y los perfiles de personas que se requiere emplear, ya que juegan un papel crucial al momento de dar vida a la propuesta de valor para el segmento de clientes elegido y definen lo mínimo que necesita para entregar a los clientes.
-          p.mb-0 Si la empresa no tuviese algunos de los recursos que se necesitan tiene la opción de arrendar o solicitarlos a los aliados claves para poseerlos y proporcionar de manera efectiva el acceso a los recursos.
+          p.mb-0 Si la empresa no tuviese algunos de los recursos que se necesitan, tiene la opción de arrendar o solicitarlos a los aliados claves para poseerlos y proporcionar de manera efectiva el acceso a los recursos.
 
     ul.lista-ul--color.mb-5
       li(style="margin-bottom: 2px" data-aos="fade-right")
         i.fas.fa-check-circle.tcp
         .h4.tcp.mb-0 Aliados clave
 
-    p(data-aos="fade-right") Ayudan a que el modelo de negocio fluya, pues permiten desarrollar relaciones con otras empresas comerciales, como: los fabricantes, los socios y los proveedores que permitirán que el negocio tenga la fortaleza suficiente en aquellas áreas en las que la empresa por sí sola es ineficaz.
+    p(data-aos="fade-right") Ayudan a que el modelo de negocio fluya, pues permiten desarrollar relaciones con otras empresas comerciales, como: los fabricantes, los socios y los proveedores, que permitirán que el negocio tenga la fortaleza suficiente en aquellas áreas en las que la empresa por sí sola es ineficaz.
     p.mb-5(data-aos="fade-right") Establecer las relaciones con otras empresas es empoderar el negocio en aquellos eslabones en los que es poco efectivo.
 
     .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-5
@@ -438,14 +438,14 @@
 
     .row.justify-content-center.mb-5
       .col-lg-10
-          p.mb-0(data-aos="fade-right") Otra unión que pueden celebrar las empresas es aquella en la que desarrollan nuevos negocios, es decir, crean una nueva organización completamente diferente en la que las dos obtengan una rentabilidad mucho mayor que la que obtienen cuando operan por separado. Por último, una de las asociaciones más comunes, es la relación de la empresa con los proveedores que tiene como objetivo: generar calidad, confianza y respaldar los suministros entre los roles de proveedor y comprador.
+          p.mb-0(data-aos="fade-right") Otra unión que pueden celebrar las empresas es aquella en la que desarrollan nuevos negocios, es decir, crean una nueva organización completamente diferente en la que las dos obtengan una rentabilidad mucho mayor que la que obtienen cuando operan por separado. Por último, una de las asociaciones más comunes, es la relación de la empresa con los proveedores, que tiene como objetivo: generar calidad, confianza y respaldar los suministros entre los roles de proveedor y comprador.
 
     ul.lista-ul--color.mb-5
       li(style="margin-bottom: 2px" data-aos="fade-right")
         i.fas.fa-check-circle.tcp
         .h4.tcp.mb-0 Estructura de costes
     
-    p(data-aos="fade-right") Consiste en establecer menos gastos para generar productos más accesibles, por ello, es recomendable minimizar cualquier costo siempre que sea posible. Ahora bien, se deben identificar todos los costos que se quieren disminuir para generar productos a bajo costo y de esta manera entrar a competir en el mercado, sin embargo, se debe tener cuidado ya que puede convertirse en una bomba de tiempo que lo puede llevar al fracaso, puesto que para algunas empresas los precios bajos son ilógicos. 
+    p(data-aos="fade-right") Consiste en establecer menos gastos para generar productos más accesibles, por ello, es recomendable minimizar cualquier costo siempre que sea posible. Ahora bien, se deben identificar todos los costos que se quieren disminuir para generar productos a bajo costo y de esta manera entrar a competir en el mercado, sin embargo, se debe tener cuidado, ya que puede convertirse en una bomba de tiempo que lo puede llevar al fracaso, puesto que para algunas empresas los precios bajos son ilógicos. 
     p(data-aos="fade-right") En tal sentido, se recomienda revisar y analizar la propuesta de valor, para que ese sea el fuerte del negocio y no el precio bajo que pudiese ofrecer al cliente. Los modelos de negocios son definidos por la propuesta de valor, por lo que están menos preocupados por los costos de transacción y se enfocan en tener un alto nivel de personalización y desarrollado según las preferencias de los clientes.
     p.mb-5(data-aos="fade-right") A continuación, se explican los costos que se deben analizar para la sostenibilidad del modelo negocio y otros factores a tener en cuenta:
 
@@ -460,7 +460,7 @@
       .BG07.p-4(titulo="Costos variables")
         .row.justify-content-center.align-items-center.mt-4
           .col-lg-8.order-lg-1.order-2
-            p.mb-0 En estos costos influye la oferta y la demanda, ya que la variabilidad de los costos se sostiene en el mayor o menor volumen de producción, dicho en otras palabras, si no hay demanda del producto o servicio, por ende, no se necesita producir y esto hace que los costos varíen, por lo que estos son difíciles de prever, debido a esto una macro empresa tiene un costo unitario más bajo que una micro empresa.
+            p.mb-0 En estos costos influye la oferta y la demanda, ya que la variabilidad de los costos se sostiene en el mayor o menor volumen de producción, dicho en otras palabras, si no hay demanda del producto o servicio, por ende, no se necesita producir y esto hace que los costos varíen, por lo que estos son difíciles de prever, debido a esto una macro empresa tiene un costo unitario más bajo que una microempresa.
           .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4
             img(src='@/assets/curso/tema1/img31.png' alt="Imagen decorativa")
       .BG07.p-4(titulo="Economía de escala")
@@ -514,7 +514,7 @@
                 | La venta de activos.
               li(style="margin-bottom: 2px" data-aos="fade-left")
                 i.fas.fa-chevron-circle-right.tcp
-                | Las tarifas de uso,.
+                | Las tarifas de uso.
               li(style="margin-bottom: 2px" data-aos="fade-left")
                 i.fas.fa-chevron-circle-right.tcp
                 | Las licencias a terceros.
@@ -552,7 +552,7 @@
             i.fas.fa-check-circle.tcp
             .h4.tcp.mb-0 Modelo de franquicia
         p Es el mejor modelo para la expansión de la empresa, la franquicia permite al franquiciador licenciar sus recursos y el nombre de la marca, utilizar la propiedad intelectual y los derechos de una franquicia para vender los productos y servicios a cambio de regalías, unos ejemplos clásicos son: Subway, McDonald's, Coca-Cola.
-        p.mb-0 La franquicia es la manera privilegiada de expandirse para la mayoría de las marcas pequeñas y grandes, porque ya se ha demostrado que es una excelente forma de crecer. Hay tres tipos de modelos los cuales se describen a continuación:
+        p.mb-0 La franquicia es la manera privilegiada de expandirse para la mayoría de las marcas pequeñas y grandes, porque ya se ha demostrado que es una excelente forma de crecer. Hay tres tipos de modelos, los cuales se describen a continuación:
 
     .tarjeta--container.row.mb-5
       .col-lg.tarjeta.color-primario.p-5.text-white
@@ -572,7 +572,7 @@
           .col-6
             img(src='@/assets/curso/tema1/img38.svg' alt="Imagen decorativa")
         .h4.text-center Franquicia de fabricación
-        p.mb-0 Generalmente el franquiciador es una empresa fabricante que otorga derecho exclusivo al franquiciado o al distribuidor para fabricar y distribuir sus productos en un área bien definida utilizando el nombre y la marca comercial del franquiciador.
+        p.mb-0 Generalmente, el franquiciador es una empresa fabricante que otorga derecho exclusivo al franquiciado o al distribuidor para fabricar y distribuir sus productos en un área bien definida, utilizando el nombre y la marca comercial del franquiciador.
 
     ul.lista-ul--color.mb-5
       li(style="margin-bottom: 2px" data-aos="fade-right")
@@ -580,7 +580,7 @@
         .h4.tcp.mb-0 Modelo de negocio de suscripción
     
     p(data-aos="fade-right") Este modelo permite que el cliente obtenga servicios pagando una cantidad fija cada mes o año, en este caso, la empresa tiene que proporcionar suficiente valor a su cliente para que visite el sitio web una y otra vez. También permite a las empresas segmentar el mercado y ofrecer un número específico de artículos en su contenido bajo diferentes planes y precios conocidos como ofertas escalonadas. Ejemplos: Netflix, LinkedIn, Amazon Prime.
-    p.mb-5(data-aos="fade-right") En este modelo el cliente tiene la opción de renovar o cancelar la suscripción una vez finalice el contrato, por lo que acepta pagar por un producto o servicio por un período de tiempo y la empresa cumple con esta oferta siempre que el cliente complete sus pagos recurrentes. Una suscripción es una especie de contrato entre la empresa y el cliente. A continuación, se explican algunos modelos de negocio:
+    p.mb-5(data-aos="fade-right") En este modelo, el cliente tiene la opción de renovar o cancelar la suscripción una vez finalice el contrato, por lo que acepta pagar por un producto o servicio por un período de tiempo y la empresa cumple con esta oferta siempre que el cliente complete sus pagos recurrentes. Una suscripción es una especie de contrato entre la empresa y el cliente. A continuación, se explican algunos modelos de negocio:
 
     TabsB.color-acento-botones.mb-5(data-aos="zoom-in")
       .BG07.p-4(titulo="Caja de suscripción" :icono="require('@/assets/curso/tema1/img39.svg')")
@@ -590,7 +590,7 @@
       .BG07.p-4(titulo="Modelo de suscripción de servicio de alimentos" :icono="require('@/assets/curso/tema1/img41.svg')")
         p.mt-4.mb-0 Se basa en la conveniencia, estas compañías no solo entregan comida a su puerta, sino que también le brindan recetas para cocinar. De esa manera, obtendrá los ingredientes y la dirección necesarios para preparar una comida casera, incluso si no tiene experiencia en la cocina.
       .BG07.p-4(titulo="Modelo de suscripción de salud y bienestar" :icono="require('@/assets/curso/tema1/img42.svg')")
-        p.mt-4.mb-0 ofrecen una suscripción de salud y bienestar a través del acceso a clases, entrenadores y equipos de entrenamiento por una tarifa mensual.
+        p.mt-4.mb-0 Ofrecen una suscripción de salud y bienestar a través del acceso a clases, entrenadores y equipos de entrenamiento por una tarifa mensual.
       .BG07.p-4(titulo="Modelo de suscripción de <i><i>software</i></i>" :icono="require('@/assets/curso/tema1/img43.svg')")
         p.mt-4.mb-0 Muchas empresas de <i>software</i> utilizan modelos de suscripción porque suelen actualizar y mejorar sus productos y servicios con regularidad, por lo que en lugar de pedir a los clientes que vuelvan a comprar el producto cada vez que se realiza un cambio, utilizan un modelo de suscripción de <i>software</i> que les permite realizar mejoras sin obstaculizar la experiencia del cliente.
 
@@ -722,7 +722,7 @@
         .h4.tcp.mb-0 Modelo de negocio multimarca
       
     p(data-aos="fade-right") Este modelo se basa en la comercialización de más de dos productos, casi similares pero que compiten entre sí y están bajo una sola organización, pero con diferentes marcas. Se hace para crear economías de escala y construir un imperio. Ejemplos: Nestlé, Unilever y Procter & Gamble.
-    p.mb-5(data-aos="fade-right") Este es tipo de negocio una buena idea para las organizaciones que buscan tener presencia en diversos campos, puesto que les ayuda a maximizar las ganancias, conozca las ventajas:
+    p.mb-5(data-aos="fade-right") Este tipo de negocio es una buena idea para las organizaciones que buscan tener presencia en diversos campos, puesto que les ayuda a maximizar las ganancias, conozca las ventajas:
 
     .titulo-sexto.color-acento-contenido.mb-5(data-aos="fade-right")
       h5 Figura 2.
@@ -761,7 +761,7 @@
         p.mt-4 Los consumidores venden bienes o servicios directamente a otros consumidores.
         p Esto suele ser posible gracias a sitios web de terceros o mercados que facilitan las transacciones en nombre de los compradores y vendedores. 
         p Estos mercados de comercio electrónico permiten a las empresas más pequeñas, o incluso a los aficionados, vender sus productos a su propio precio.
-        p Como puede ver el modelo de comercio electrónico ha tomado mucha fuerza gracias a las diferentes estrategias de uso como: sitios web, redes sociales, chat, etc.
+        p Como puede ver, el modelo de comercio electrónico ha tomado mucha fuerza gracias a las diferentes estrategias de uso como: sitios web, redes sociales, chat, etc.
 
     //-figure.mb-5(data-aos="zoom-in")
       .video
@@ -828,7 +828,7 @@
               img.mx-auto(src='@/assets/curso/tema1/img01.svg' alt="Imagen decorativa" style="max-width: 90px;")
             .col-lg-10(data-aos="fade-left")
               .h4 Importante…
-              p.mb-0 El nombre de la marca a menudo se convierte en un marco de referencia para los productos o servicios lanzados por la marca. Ejemplo: #[b SAMSUNG], una marca mundial, lanzó un nuevo producto en el mercado de consumo, ya está establecido, ya que la gente lo compa rará con los otros productos lanzados por la marca.
+              p.mb-0 El nombre de la marca a menudo se convierte en un marco de referencia para los productos o servicios lanzados por la marca. Ejemplo: #[b SAMSUNG], una marca mundial, lanzó un nuevo producto en el mercado de consumo, ya está establecido, ya que la gente lo comparará con los otros productos lanzados por la marca.
 
     p.text-center.mb-5(data-aos="fade-right") En el siguiente contenido se exploran las ventajas del marco de referencia en un modelo de negocios:
 
@@ -1093,7 +1093,7 @@
         .h4.tcp.mb-0 Modelo AIDA
     
     p(data-aos="fade-right") Contribuye en las decisiones publicitarias para los clientes en diferentes etapas del proceso de toma de decisiones. En cada etapa, los conocedores de <i>marketing</i> deberán adaptar sus campañas de <i>marketing</i> para ayudar a los clientes a pasar de una etapa a la siguiente, por lo que le ayuda a identificar las cognitivas por las que pasa un consumidor durante el proceso de compra de un producto o servicio. Su objetivo es inducir a los compradores que van y vienen en cada etapa, para ayudarlos a realizar la compra final.
-    p.mb-5(data-aos="fade-right") En términos generales este modelo atiende las fases por las que atraviesa un cliente en el proceso de compra del producto o la adquisición del servicio. Los elementos del Modelo o técnica AIDA se describen a continuación:
+    p.mb-5(data-aos="fade-right") En términos generales, este modelo atiende las fases por las que atraviesa un cliente en el proceso de compra del producto o la adquisición del servicio. Los elementos del Modelo o técnica AIDA se describen a continuación:
 
     .row.justify-content-center.mb-4
       .col-xl-3.col-md-6.col-10.mb-4(data-aos="fade-right")
@@ -1122,7 +1122,7 @@
                 figure
                   img.mx-auto(src='@/assets/curso/tema1/img74.svg' style="width: 100px; top: 10px; position: relative" alt="Imagen decorativa")
           .h4.text-center Deseo
-          p.mb-0 Despertar el interés por el producto o servicio a través de emociones y sensaciones, mostrando la personalidad de la marca, esta tarea no recae solo en el vendedor también por un medio publicitario.
+          p.mb-0 Despertar el interés por el producto o servicio a través de emociones y sensaciones, mostrando la personalidad de la marca, esta tarea no recae solo en el vendedor, también por un medio publicitario.
       .col-xl-3.col-md-6.col-10.mb-4(data-aos="fade-left")
         .tarjeta--boton.color-acento-botones.h-100.p-4
           .row.justify-content-center.align-items-center.mb-5
@@ -1171,7 +1171,7 @@
         h4.text-center Proceso financiero
         p Es responsable de determinar el presupuesto requerido para el trabajo de la empresa y de monitorear el gasto de dinero según sea necesario y especificado.
 
-    p(data-aos="fade-right") Estos procesos representan la principal misión que la organización debe cuidar, es por eso que la esta procura alcanzar sus objetivos de manera rápida y eficiente. Si estos no se llevan a cabo de manera adecuada, los resultados podrían producir frustración, confusión, pérdida de eficiencia y eficacia limitada.
+    p(data-aos="fade-right") Estos procesos representan la principal misión que la organización debe cuidar, es por eso que procura alcanzar sus objetivos de manera rápida y eficiente. Si estos no se llevan a cabo de manera adecuada, los resultados podrían producir frustración, confusión, pérdida de eficiencia y eficacia limitada.
     p.mb-5(data-aos="fade-right") Hay otros procesos de naturaleza auxiliares que no están directamente relacionado con la función principal de la organización, pero asisten y respaldan los llamados principales en una empresa, estos deben cumplir los siguientes pasos: 
 
     .row.justify-content-center.mb-5
@@ -1443,35 +1443,35 @@
             .col-8
               img(src='@/assets/curso/tema1/img96.png' alt='Imagen decorativa')
           .text-white
-            .h4.text-center Recursos humanos
+            .h5.text-center Recursos humanos
       .col-lg-2.col-sm-4.col-6.mb-lg-0.mb-4(data-aos="flip-right")
         .tarjeta--boton.color-primario.h-100.p-4
           .row.justify-content-center.mb-4
             .col-8
               img(src='@/assets/curso/tema1/img97.png' alt='Imagen decorativa')
           .text-white
-            .h4.text-center Contabilidad
+            .h5.text-center Contabilidad
       .col-lg-2.col-sm-4.col-6.mb-lg-0.mb-4(data-aos="flip-up")
         .tarjeta--boton.color-primario.h-100.p-4
           .row.justify-content-center.mb-4
             .col-8
               img(src='@/assets/curso/tema1/img98.png' alt='Imagen decorativa')
           .text-white
-            .h4.text-center Relaciones con los clientes
+            .h5.text-center Relaciones con los clientes
       .col-lg-2.col-sm-4.col-6.mb-lg-0.mb-4(data-aos="flip-left")
         .tarjeta--boton.color-primario.h-100.p-4
           .row.justify-content-center.mb-4
             .col-8
               img(src='@/assets/curso/tema1/img99.png' alt='Imagen decorativa')
           .text-white
-            .h4.text-center Atención al cliente (soporte técnico)
+            .h5.text-center Atención al cliente (soporte técnico)
       .col-lg-2.col-sm-4.col-6.mb-lg-0.mb-4(data-aos="fade-left")
         .tarjeta--boton.color-primario.h-100.p-4
           .row.justify-content-center.mb-4
             .col-8
               img(src='@/assets/curso/tema1/img100.png' alt='Imagen decorativa')
           .text-white
-            .h4.text-center Actividades comerciales administrativas
+            .h5.text-center Actividades comerciales administrativas
 
     p.mb-5(data-aos="fade-right") Los servicios de subcontratación son importantes porque mejoran la velocidad y la eficiencia de varios procesos comerciales entre los que lideran en nuestro país se encuentran:
 

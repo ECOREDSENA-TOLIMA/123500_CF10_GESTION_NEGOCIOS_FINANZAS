@@ -8,7 +8,7 @@
     .row.justify-content-center
       .col-lg-10.mb-5(data-aos="fade-right")
         figure
-          img(src="@/assets/curso/temas/sintesis.svg", alt="Imagen que contiene un esquema que muestra de manera resumida la temática tratada en este componente formativo, la cual se destaca que existen dos  factores en procesos de finanzas con aspectos puntuales que son: 1. Modelo de negocio: clasificación, etapas, marcos de referencia, procesos. 2. Sistema de gestión de riesgos: indicadores, normativas.")
+          img(src="@/assets/curso/temas/sintesis.svg", alt="Síntesis. Imagen que contiene un esquema que muestra de manera resumida la temática tratada en este componente formativo, la cual se destaca que existen dos factores en procesos de finanzas con aspectos puntuales que son: 1. Modelo de negocio: clasificación, etapas, marcos de referencia, procesos y estrategia.2. Sistema de gestión de riesgos: indicadores, normativas.")
       .col-auto(data-aos="fade-left")
         a.anexo.mb-4(:href="obtenerLink('/downloads/sintesis.pdf')" target="_blank")
           .anexo__icono
