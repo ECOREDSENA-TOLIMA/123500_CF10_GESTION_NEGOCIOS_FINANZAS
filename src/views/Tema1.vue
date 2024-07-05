@@ -460,7 +460,7 @@
       .BG07.p-4(titulo="Costos variables")
         .row.justify-content-center.align-items-center.mt-4
           .col-lg-8.order-lg-1.order-2
-            p.mb-0 En estos costos influye la oferta y la demanda, ya que la variabilidad de los costos se sostiene en el mayor o menor volumen de producción, dicho en otras palabras, si no hay demanda del producto o servicio, por ende, no se necesita producir y esto hace que los costos varíen, por lo que estos son difíciles de prever, debido a esto una macro empresa tiene un costo unitario más bajo que una microempresa.
+            p.mb-0 En estos costos influye la oferta y la demanda, ya que la variabilidad de los costos se sostiene en el mayor o menor volumen de producción, dicho en otras palabras, si no hay demanda del producto o servicio, por ende, no se necesita producir y esto hace que los costos varíen, por lo que estos son difíciles de prever, debido a esto una macroempresa tiene un costo unitario más bajo que una microempresa.
           .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4
             img(src='@/assets/curso/tema1/img31.png' alt="Imagen decorativa")
       .BG07.p-4(titulo="Economía de escala")
@@ -761,7 +761,7 @@
         p.mt-4 Los consumidores venden bienes o servicios directamente a otros consumidores.
         p Esto suele ser posible gracias a sitios web de terceros o mercados que facilitan las transacciones en nombre de los compradores y vendedores. 
         p Estos mercados de comercio electrónico permiten a las empresas más pequeñas, o incluso a los aficionados, vender sus productos a su propio precio.
-        p Como puede ver, el modelo de comercio electrónico ha tomado mucha fuerza gracias a las diferentes estrategias de uso como: sitios web, redes sociales, chat, etc.
+        p Como puede apreciar, el modelo de comercio electrónico ha tomado mucha fuerza gracias a las diferentes estrategias de uso como: sitios web, redes sociales, chat, etc.
 
     //-figure.mb-5(data-aos="zoom-in")
       .video
@@ -1484,6 +1484,12 @@
           img.d-lg-flex.d-none(src='@/assets/curso/tema1/img101.svg' alt='Figura que contiene los aspectos presentes en la subcontratación y los cuales tiene que ver con las siguientes áreas: Ciencias sociales. Salud. Servicios de voz. Tecnología. Administrativa.')
           img.d-lg-none.d-flex(src='@/assets/curso/tema1/img101a.svg' alt='Figura que contiene los aspectos presentes en la subcontratación y los cuales tiene que ver con las siguientes áreas: Ciencias sociales. Salud. Servicios de voz. Tecnología. Administrativa.')
 
+    .row.justify-content-center 
+      p Pero, por cuánto tiempo se hace un proceso de “outsourcing” para una empresa, sería la pregunta que se debe responder ahora. La respuesta depende de qué se subcontrata y por qué, por lo que, un acuerdo de subcontratación que genere grandes cambios puede requerir más tiempo para obtener beneficios tanto para el cliente como para el proveedor, pero cuando se subcontrata el mantenimiento de escritorio una relación más corta puede funcionar mejor. 
+      p En términos generales, se deben evitar los contratos demasiado largos es decir aquellos que oscilan por más de cinco años a menos que haya una gran flexibilidad contemplada en el contrato. 
+      p Crear un cronograma y una fecha de finalización para las negociaciones ayudará a controlar el proceso de negociación.
+      p Teniendo claro lo anterior, ahora es necesario conocer cuáles son los tipos de <i>outsourcing</i> que existen:
+
     .row.justify-content-center.mb-5
       .col-lg-4.col-8.mb-lg-0.mb-4(data-aos="fade-right")
         img(src='@/assets/curso/tema1/img102.png' alt="Imagen decorativa")
@@ -1499,7 +1505,7 @@
           p.mb-0(numero="4" titulo="<em><i>Outsourcing</i></em> de proyectos") Cuando la empresa carece de tiempo, de habilidades o de recursos, subcontrata servicios de proyectos que incluyen el diseño del sitio web, la creación de una gran parte del contenido y las campañas de mercadeo. <br><br>
             | Es mucho más económico contratar servicios remotos para cumplir con un proyecto que vincular a una persona, ya que al contratar servicios remotos está contratando experiencia, calidad, habilidades y conocimiento para estructurar el proyecto en cuestión de segundos en lugar de alguien que requiere de capacitación para desarrollar sus labores y que tardaría en entregar el proyecto. Por ejemplo: empresas de gestión de proyectos.
 
-    .BG10.p-4.mb-4
+    //-.BG10.p-4.mb-4
       .row.justify-content-center.align-items-center
         .col-3.col-sm-2.col-lg-1
           img(src="@/assets/curso/tema1/img103.svg" alt="Imagen decorativa")

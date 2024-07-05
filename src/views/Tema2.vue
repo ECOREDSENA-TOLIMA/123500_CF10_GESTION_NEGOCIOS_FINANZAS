@@ -380,7 +380,7 @@
               td.text-center(style="background-color: #FFF;") Muy bajo
               td.text-center(style="background-color: #FFF;") Muy bajo
       .tarjeta.BG07.p-3(x="89%" y="62%" numero="7")
-        p.mb-0 En este último paso se procede a medir a través de indicadores claves la optimización las actividades de seguimiento, además de buscar indicadores de riesgo que puedan desatar un cambio en la estrategia.
+        p.mb-0 En este último paso se procede a medir a través de indicadores claves la optimización de actividades de seguimiento, además de buscar indicadores de riesgo que puedan desatar un cambio en la estrategia.
     
     a.anexo.d-lg-none.d-flex(:href="obtenerLink('/downloads/anexo_normaISO.pdf')" target="_blank")
       .anexo__icono

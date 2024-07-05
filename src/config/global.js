@@ -136,14 +136,6 @@ export default {
   },
   complementario: [
     {
-      tema: 'Construcción del modelo de negocio',
-      referencia:
-        'Matiz, F. & Quintero, I. (2019). Pensamiento estratégico: concepto, impulsores y práctica. Editorial Alfaomega.',
-      tipo: 'Libro',
-      link:
-        'https://www-alphaeditorialcloud-com.bdigital.sena.edu.co/reader/pensamiento-estrategico-concepto-impulsores-y-practica?location=21',
-    },
-    {
       tema: 'Gestión del riesgo',
       referencia:
         'Tamayo Saborit, M. & González Capote, D. (2020). La gestión de riesgos: herramienta estratégica de gestión empresarial. Editorial Universo Sur.',
@@ -199,12 +191,12 @@ export default {
       autores: [
         {
           nombre: 'Milady Tatiana Villamil Castellanos',
-          cargo: 'Responsable del equipo',
+          cargo: 'Responsable del Equipo',
           centro: 'Dirección General',
         },
         {
           nombre: 'Liliana Victoria Morales Gualdrón',
-          cargo: 'Responsable de línea de producción',
+          cargo: 'Responsable de Línea de Producción',
           centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },
       ],
@@ -219,28 +211,28 @@ export default {
         },
         {
           nombre: 'Ana Vela Rodríguez Velásquez',
-          cargo: 'Diseño Instruccional',
+          cargo: 'Diseñadora Instruccional',
           centro: 'Regional Distrito Capital - Centro de Gestión Industrial',
         },
         {
           nombre: 'Carolina Coca Salazar',
-          cargo: 'Asesoría Metodológica',
+          cargo: 'Asesora Metodológica',
           centro: 'Regional Distrito Capital- Centro de Diseño y Metrología',
         },
         {
           nombre: 'Rafael Lizcano',
-          cargo: 'Responsable Equipo Desarrollo Curricular',
+          cargo: 'Responsable Equipo de Desarrollo Curricular',
           centro:
             'Regional Santander - Centro Industrial del Diseño y la Manufactura',
         },
         {
           nombre: 'Sandra Patricia Hoyos Sepúlveda',
-          cargo: 'Corrección de Estilo',
+          cargo: 'Correctora de Estilo',
           centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
         },
         {
           nombre: 'Andrés Felipe Velandia Espitia',
-          cargo: 'Evaluación Instruccional',
+          cargo: 'Evaluador Instruccional',
           centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },
       ],
@@ -250,27 +242,27 @@ export default {
       autores: [
         {
           nombre: 'Ernesto Navarro Jaimes',
-          cargo: 'Producción audiovisual',
+          cargo: 'Animador y Productor Audiovisual',
           centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },
         {
           nombre: 'Gilberto Junior Rodríguez Rodríguez',
-          cargo: 'Producción audiovisual',
+          cargo: 'Animador y Productor Audiovisual',
           centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },
         {
           nombre: 'Oscar Iván Uribe Ortiz',
-          cargo: 'Diseño web',
+          cargo: 'Diseñador de Contenidos Digitales',
           centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },
         {
           nombre: 'Veimar Celis Meléndez  ',
-          cargo: 'Desarrollo Fullstack',
+          cargo: 'Desarrollador Fullstack',
           centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },
         {
           nombre: 'Diego Fernando Velasco Güiza',
-          cargo: 'Desarrollo Fullstack',
+          cargo: 'Desarrollador Fullstack',
           centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },
       ],
@@ -280,12 +272,12 @@ export default {
       autores: [
         {
           nombre: 'Norma Constanza Morales Cruz',
-          cargo: 'Evaluación de contenidos inclusivos y accesibles',
+          cargo: 'Evaluadora de Contenidos Inclusivos y Accesibles',
           centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },
         {
           nombre: 'Javier Mauricio Oviedo',
-          cargo: 'Validación de recursos educativos digitales',
+          cargo: 'Validador y Vinculador de Recursos Educativos Digitales LMS',
           centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },
       ],
