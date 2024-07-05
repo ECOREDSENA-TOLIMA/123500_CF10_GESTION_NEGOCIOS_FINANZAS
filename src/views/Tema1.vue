@@ -227,7 +227,7 @@
             | Enfocar sus esfuerzos a esa segmentación.
           li(style="margin-bottom: 2px" data-aos="fade-right")
             i.fas.fa-check-circle.tcp
-            | Analizar quienes serán a las personas con más probabilidades de convertirse en clientes. 
+            | Analizar quienes serán las personas con más probabilidades de convertirse en clientes. 
       .col-lg-10
         p(data-aos="fade-right") Se debe tener en cuenta que la segmentación de manera demográfica es vital para caracterizar la población, para lo cual es de utilidad considerar la siguiente lista:
         .row.justify-content-center.mb-4
@@ -828,7 +828,7 @@
               img.mx-auto(src='@/assets/curso/tema1/img01.svg' alt="Imagen decorativa" style="max-width: 90px;")
             .col-lg-10(data-aos="fade-left")
               .h4 Importante…
-              p.mb-0 El nombre de la marca a menudo se convierte en un marco de referencia para los productos o servicios lanzados por la marca. Ejemplo: #[b SAMSUNG], una marca mundial, lanzó un nuevo producto en el mercado de consumo, ya está establecido, ya que la gente lo comparará con los otros productos lanzados por la marca.
+              p.mb-0 El nombre de la marca a menudo se convierte en un marco de referencia para los productos o servicios lanzados por la marca. Ejemplo: #[b SAMSUNG], una marca mundial, lanzó un nuevo producto en el mercado de consumo, ya está establecido, ya que la gente lo comprará con los otros productos lanzados por la marca.
 
     p.text-center.mb-5(data-aos="fade-right") En el siguiente contenido se exploran las ventajas del marco de referencia en un modelo de negocios:
 
@@ -1205,7 +1205,7 @@
       h5 Figura 6.
       span <i>Proceso según su naturaleza</i>
     figure.mb-5
-      img.mb-lg-0.mb-4(src='@/assets/curso/tema1/img81.svg', alt='Figura que relaciona los aspectos que se deben tener en cuenta en el tipo de naturaleza de los aspectos organizacionales, como son los procesos: gerenciales, operativos y de soporte.')
+      img.mb-lg-0.mb-4(src='@/assets/curso/tema1/img81.svg', alt='Figura que relaciona los aspectos que se deben tener en cuenta en la naturaleza de las organizaciones, encontrando el seguimiento y mejora continua, así como la evaluación independiente y asesoría; de igual manera, se tienen en cuenta diversas necesidades y procesos.')
     a.anexo.d-lg-none.d-flex.movil(:href="obtenerLink('/downloads/anexo_mapa_de_procesos.pdf')" target="_blank")
       .anexo__icono
         img(src="@/assets/template/icono-pdf.svg")

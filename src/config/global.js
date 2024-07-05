@@ -207,7 +207,8 @@ export default {
         {
           nombre: 'Fabiola Sierra Sarmiento',
           cargo: 'Experta Temática',
-          centro: 'Regional Norte de Santander - CIES',
+          centro:
+            'Regional Norte de Santander – Centro Industrial del Diseño y la Manufactura',
         },
         {
           nombre: 'Ana Vela Rodríguez Velásquez',
